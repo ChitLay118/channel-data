@@ -36,12 +36,6 @@
     "thumb": "https://i.imgur.com/MvpntzA.png"
   },
   {
-    "title": "2STV",
-    "countries": "Senegal",
-    "src": "http://69.64.57.208/2stv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/WByVBZf.png"
-  },
-  {
     "title": "2 TV",
     "countries": "Georgia",
     "src": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
@@ -297,12 +291,6 @@
     "title": "9XM",
     "countries": "India",
     "src": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
-    "thumb": "https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "title": "9XM",
-    "countries": "India",
-    "src": "https://b.jsrdn.com/strm/channels/9xm/master.m3u8",
     "thumb": "https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -726,12 +714,6 @@
     "thumb": "https://dtil.tmsimg.com/assets/s142505_ld_h15_aa.png?lock=720x540"
   },
   {
-    "title": "Aaj Entertainment",
-    "countries": "Pakistan",
-    "src": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
-    "thumb": "https://i.imgur.com/WK5Cqap.png"
-  },
-  {
     "title": "Aaj Tak",
     "countries": "India",
     "src": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
@@ -753,6 +735,12 @@
     "title": "Aaj Tak",
     "countries": "India",
     "src": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+    "thumb": "https://i.imgur.com/JYLmXy4.png"
+  },
+  {
+    "title": "Aaj Tak",
+    "countries": "India",
+    "src": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8",
     "thumb": "https://i.imgur.com/JYLmXy4.png"
   },
   {
@@ -1098,6 +1086,12 @@
     "thumb": "https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540"
   },
   {
+    "title": "ABP News",
+    "countries": "India",
+    "src": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "title": "Absolute Reality by WE TV",
     "countries": "United States",
     "src": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
@@ -1314,6 +1308,12 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"
   },
   {
+    "title": "AE Radio TV",
+    "countries": "Chile",
+    "src": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8",
+    "thumb": "https://i.imgur.com/425dj2i.jpeg"
+  },
+  {
     "title": "Afarin Baxcha",
     "countries": "Iraq",
     "src": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
@@ -1390,6 +1390,12 @@
     "countries": "United Kingdom",
     "src": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "thumb": "https://i.imgur.com/232ndRK.png"
+  },
+  {
+    "title": "Afroculture TV",
+    "countries": "Ivory Coast",
+    "src": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
+    "thumb": "https://i.imgur.com/bjaZ3kO.png"
   },
   {
     "title": "AfroLandTV",
@@ -1818,6 +1824,12 @@
     "thumb": "https://i.imgur.com/xqa87lG.png"
   },
   {
+    "title": "Alex Berlin",
+    "countries": "Germany",
+    "src": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8",
+    "thumb": "https://i.imgur.com/eTmHk4e.png"
+  },
+  {
     "title": "Al-Fady TV",
     "countries": "United States",
     "src": "https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8",
@@ -2106,12 +2118,6 @@
     "thumb": "https://i.imgur.com/3pUik3b.png"
   },
   {
-    "title": "Al-Mahdi TV",
-    "countries": "United States",
-    "src": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/S1YM83i.png"
-  },
-  {
     "title": "Almahriah TV",
     "countries": "Turkiye",
     "src": "https://starmenajo.com/hls/almahriah/index.m3u8",
@@ -2178,6 +2184,12 @@
     "thumb": "https://i.imgur.com/146OgfU.png"
   },
   {
+    "title": "Alpha Digital",
+    "countries": "Uganda",
+    "src": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+    "thumb": "https://i.imgur.com/sLt242H.png"
+  },
+  {
     "title": "alpha Moretime",
     "countries": "Russia",
     "src": "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8",
@@ -2196,12 +2208,6 @@
     "thumb": "https://i.imgur.com/zkBT0C8.png"
   },
   {
-    "title": "Alquran",
-    "countries": "Iraq",
-    "src": "https://ktvlive.online/stream/hls/ch1.m3u8",
-    "thumb": "https://i.imgur.com/lqVwrAF.png"
-  },
-  {
     "title": "Al Quran Al Kareem TV",
     "countries": "Saudi Arabia",
     "src": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
@@ -2211,6 +2217,12 @@
     "title": "Al Quran Al Kareem TV",
     "countries": "Saudi Arabia",
     "src": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+    "thumb": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png"
+  },
+  {
+    "title": "Al Quran Al Kareem TV",
+    "countries": "Saudi Arabia",
+    "src": "https://aloula-redirect.vercel.app/7/playlist.m3u8",
     "thumb": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png"
   },
   {
@@ -2451,12 +2463,6 @@
     "title": "America Estereo Quito",
     "countries": "Ecuador",
     "src": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
-    "thumb": "https://i.imgur.com/gUqKymM.png"
-  },
-  {
-    "title": "America Estereo Tulcan",
-    "countries": "Ecuador",
-    "src": "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8",
     "thumb": "https://i.imgur.com/gUqKymM.png"
   },
   {
@@ -2748,6 +2754,12 @@
     "thumb": "https://i.imgur.com/gZUV4z8.png"
   },
   {
+    "title": "Anhui Satellite TV",
+    "countries": "China",
+    "src": "http://183.207.248.71/gitv/live1/AHWS/AHWS",
+    "thumb": "https://i.imgur.com/n5LABhB.png"
+  },
+  {
     "title": "Ani",
     "countries": "Russia",
     "src": "http://31.148.48.15/Ani/index.m3u8",
@@ -2800,12 +2812,6 @@
     "countries": "India",
     "src": "https://cdn-1.pishow.tv/live/993/master.m3u8",
     "thumb": "https://i.imgur.com/sh0yFSf.png"
-  },
-  {
-    "title": "An Ninh TV",
-    "countries": "Vietnam",
-    "src": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8",
-    "thumb": "https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi"
   },
   {
     "title": "An Ninh TV",
@@ -3070,12 +3076,6 @@
     "countries": "Azerbaijan",
     "src": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8",
     "thumb": "https://i.imgur.com/E97M2OL.png"
-  },
-  {
-    "title": "ARB Gunes",
-    "countries": "Azerbaijan",
-    "src": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
-    "thumb": "https://i.imgur.com/dSg7KUK.png"
   },
   {
     "title": "Arbol de Vida TV",
@@ -3504,6 +3504,12 @@
     "thumb": "https://i.imgur.com/ps4Gtj0.png"
   },
   {
+    "title": "Astha TV",
+    "countries": "Indonesia",
+    "src": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+    "thumb": "https://astha.garuda.tv/assets/logo-DLGyXEGO.png"
+  },
+  {
     "title": "Astrahan 24",
     "countries": "Russia",
     "src": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
@@ -3532,6 +3538,12 @@
     "countries": "Indonesia",
     "src": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
     "thumb": "https://i.imgur.com/rORKbGw.png"
+  },
+  {
+    "title": "AS TV",
+    "countries": "Turkiye",
+    "src": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
+    "thumb": "https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png"
   },
   {
     "title": "AT5",
@@ -3600,16 +3612,16 @@
     "thumb": "https://i.imgur.com/MOGQAns.png"
   },
   {
+    "title": "Atlas",
+    "countries": "United States",
+    "src": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "thumb": "https://whiplash.cc/assets/img/channels/atlas.png"
+  },
+  {
     "title": "ATN Bangla UK",
     "countries": "United Kingdom",
     "src": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
     "thumb": "https://i.imgur.com/vFpjggf.png"
-  },
-  {
-    "title": "ATN Music",
-    "countries": "Bangladesh",
-    "src": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
-    "thumb": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681"
   },
   {
     "title": "Atomic Academy TV",
@@ -3622,12 +3634,6 @@
     "countries": "Romania",
     "src": "https://atomic.streamnet.ro/atomictv.m3u8",
     "thumb": "https://i.imgur.com/O4uI0Uy.png"
-  },
-  {
-    "title": "ATV",
-    "countries": "Austria",
-    "src": "http://212.186.45.34:9981/stream/channelid/692531719?profile=pass",
-    "thumb": "https://i.imgur.com/1pA0Tid.png"
   },
   {
     "title": "ATV",
@@ -4134,12 +4140,6 @@
     "thumb": "https://dtil.tmsimg.com/assets/s142702_ld_h9_aa.png?lock=720x540"
   },
   {
-    "title": "Banten TV",
-    "countries": "Indonesia",
-    "src": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/tbtF40p.png"
-  },
-  {
     "title": "Baraka Television",
     "countries": "Democratic Republic of the Congo",
     "src": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
@@ -4162,6 +4162,12 @@
     "countries": "Greece",
     "src": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
     "thumb": "https://i.imgur.com/TZ1unwF.png"
+  },
+  {
+    "title": "Barbe TV",
+    "countries": "Guatemala",
+    "src": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
+    "thumb": "https://i.imgur.com/2Sekew2.png"
   },
   {
     "title": "Barbud Music",
@@ -4446,6 +4452,12 @@
     "thumb": "https://i.imgur.com/01UmXRe.png"
   },
   {
+    "title": "BCN Gospel TV",
+    "countries": "Spain",
+    "src": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
+    "thumb": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png"
+  },
+  {
     "title": "BCS StarCross TV",
     "countries": "Nigeria",
     "src": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8",
@@ -4599,18 +4611,6 @@
     "title": "Belarus-5",
     "countries": "Belarus",
     "src": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-    "thumb": "https://i.imgur.com/NJsRFud.png"
-  },
-  {
-    "title": "Belarus-5",
-    "countries": "Belarus",
-    "src": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-    "thumb": "https://i.imgur.com/NJsRFud.png"
-  },
-  {
-    "title": "Belarus-5",
-    "countries": "Belarus",
-    "src": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
     "thumb": "https://i.imgur.com/NJsRFud.png"
   },
   {
@@ -4791,6 +4791,12 @@
     "title": "Bharat Samachar",
     "countries": "India",
     "src": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+    "thumb": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png"
+  },
+  {
+    "title": "Bharat Samachar",
+    "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8",
     "thumb": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png"
   },
   {
@@ -5154,12 +5160,6 @@
     "thumb": "https://i.imgur.com/d0KLwkj.png"
   },
   {
-    "title": "Boas Novas",
-    "countries": "Brazil",
-    "src": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-    "thumb": "https://i.imgur.com/ZqhizdP.png"
-  },
-  {
     "title": "Boca Chica TV",
     "countries": "Dominican Republic",
     "src": "https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8",
@@ -5188,12 +5188,6 @@
     "countries": "Uzbekistan",
     "src": "https://stream8.cinerama.uz/1007/playlist.m3u8",
     "thumb": "https://i.imgur.com/s7o0ifu.png"
-  },
-  {
-    "title": "Bol Entertainment",
-    "countries": "Pakistan",
-    "src": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
-    "thumb": "https://i.imgur.com/eajSRFo.png"
   },
   {
     "title": "Bolivision",
@@ -5314,6 +5308,12 @@
     "countries": "United States",
     "src": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
     "thumb": "https://i.imgur.com/86VXni8.jpeg"
+  },
+  {
+    "title": "Brat TV",
+    "countries": "United States",
+    "src": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
+    "thumb": "https://i.imgur.com/Kkcp9Bk.png"
   },
   {
     "title": "Brat TV",
@@ -5502,22 +5502,10 @@
     "thumb": "https://kononopedia.ru/lib/exe/fetch.php?cache=&w=700&h=700&tok=dbc35d&media=kanaly:btbinternational.png"
   },
   {
-    "title": "BTB Music",
-    "countries": "Poland",
-    "src": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
-    "thumb": "https://btb.j00r.us/images/logo_BTBMusic.webp"
-  },
-  {
     "title": "BTN TV",
     "countries": "South Korea",
     "src": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
     "thumb": "https://i.imgur.com/sOoS7RQ.png"
-  },
-  {
-    "title": "BTN TV",
-    "countries": "Rwanda",
-    "src": "https://tv.btnrwanda.com:3086/live/btnlive.m3u8",
-    "thumb": "https://i.imgur.com/WmaP8zP.png"
   },
   {
     "title": "BT TV",
@@ -5536,6 +5524,12 @@
     "countries": "Uganda",
     "src": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
     "thumb": "https://i.imgur.com/rcHZ1al.png"
+  },
+  {
+    "title": "Bucovina TV",
+    "countries": "Romania",
+    "src": "https://www.bucovinatv.ro/proxy/video/playlist.m3u8",
+    "thumb": "https://i.imgur.com/6klhXxp.png"
   },
   {
     "title": "Budapest Europa Televizio",
@@ -5572,6 +5566,12 @@
     "countries": "Colombia",
     "src": "https://video.ejeserver.com/live/visiondorada.m3u8",
     "thumb": "https://i.imgur.com/I0eGYI0.png"
+  },
+  {
+    "title": "Bungo TV",
+    "countries": "Indonesia",
+    "src": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/OrCrtDA.png"
   },
   {
     "title": "Burkina Info TV",
@@ -5700,12 +5700,6 @@
     "thumb": "https://i.imgur.com/vBsry35.png"
   },
   {
-    "title": "Cadena A",
-    "countries": "Bolivia",
-    "src": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
-    "thumb": "https://i.imgur.com/BxQPPAA.png"
-  },
-  {
     "title": "Cadena Elite",
     "countries": "Spain",
     "src": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
@@ -5740,12 +5734,6 @@
     "countries": "Italy",
     "src": "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8",
     "thumb": "https://i.imgur.com/noTgJJp.png"
-  },
-  {
-    "title": "California Medios TV",
-    "countries": "Mexico",
-    "src": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
-    "thumb": "https://i.imgur.com/IDvpRNI.png"
   },
   {
     "title": "California Music Channel",
@@ -6144,6 +6132,12 @@
     "thumb": "https://i.imgur.com/INKZvlN.png"
   },
   {
+    "title": "Canal 13 Jujuy",
+    "countries": "Argentina",
+    "src": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
+    "thumb": "https://i.imgur.com/lmKLiJ3.jpg"
+  },
+  {
     "title": "Canal 13 La Rioja",
     "countries": "Argentina",
     "src": "http://arcast.net:1935/mp/mp/playlist.m3u8",
@@ -6190,12 +6184,6 @@
     "countries": "Argentina",
     "src": "https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8",
     "thumb": "https://i.imgur.com/R4wXVxf.png"
-  },
-  {
-    "title": "Canal 25 Jundiai",
-    "countries": "Brazil",
-    "src": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "thumb": "https://i.imgur.com/7igGMwH.png"
   },
   {
     "title": "Canal 26",
@@ -6259,12 +6247,6 @@
   },
   {
     "title": "Canal 56",
-    "countries": "Dominican Republic",
-    "src": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8",
-    "thumb": "https://i.imgur.com/HcLs5eM.png"
-  },
-  {
-    "title": "Canal 56",
     "countries": "Spain",
     "src": "https://videos.canal56.com/directe/stream/index.m3u8",
     "thumb": "https://i.imgur.com/pwRVbCz.png"
@@ -6310,6 +6292,12 @@
     "countries": "Switzerland",
     "src": "https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8",
     "thumb": "https://i.imgur.com/eQ8xHK9.jpg"
+  },
+  {
+    "title": "Canal Calima TV",
+    "countries": "Colombia",
+    "src": "https://movil.ejeserver.com/live/calimatv.m3u8",
+    "thumb": "https://i.imgur.com/6YxtyUR.jpeg"
   },
   {
     "title": "Canal Catorce",
@@ -6666,12 +6654,6 @@
     "thumb": "https://i.imgur.com/RuQDwTt.jpeg"
   },
   {
-    "title": "Cannes Lerins TV",
-    "countries": "France",
-    "src": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
-    "thumb": "https://i.imgur.com/atlgnum.png"
-  },
-  {
     "title": "Can Tho TV",
     "countries": "Vietnam",
     "src": "https://live.canthotv.vn/live/tv/chunklist.m3u8",
@@ -6842,7 +6824,7 @@
   {
     "title": "Cartago Medios TV",
     "countries": "Costa Rica",
-    "src": "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8",
+    "src": "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
     "thumb": "https://i.imgur.com/Vcd40AL.png"
   },
   {
@@ -7198,12 +7180,6 @@
     "countries": "China",
     "src": "http://74.91.26.218:82/live/cctv12hd.m3u8",
     "thumb": "https://i.imgur.com/3yTuiOM.png"
-  },
-  {
-    "title": "CCTV-13",
-    "countries": "China",
-    "src": "https://cdn3.163189.xyz/163189/cctv13",
-    "thumb": "https://i.imgur.com/6MTar6J.png"
   },
   {
     "title": "CCTV-13",
@@ -7920,12 +7896,6 @@
     "thumb": "https://i.imgur.com/F1it6fh.png"
   },
   {
-    "title": "Chiloe Red 25",
-    "countries": "Chile",
-    "src": "https://v2.tustreaming.cl/chiloered/index.m3u8",
-    "thumb": "https://i.imgur.com/3tqrImm.png"
-  },
-  {
     "title": "China Travel",
     "countries": "China",
     "src": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
@@ -8002,12 +7972,6 @@
     "countries": "Turkiye",
     "src": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
     "thumb": "https://i.imgur.com/CLzP4vL.png"
-  },
-  {
-    "title": "CINDIE TV",
-    "countries": "Brazil",
-    "src": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
-    "thumb": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png"
   },
   {
     "title": "Cine Friki",
@@ -8338,6 +8302,12 @@
     "countries": "Brazil",
     "src": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
     "thumb": "https://i.imgur.com/rHxcraT.png"
+  },
+  {
+    "title": "ClickTV Chile",
+    "countries": "Chile",
+    "src": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/H0XNbMS.png"
   },
   {
     "title": "Cloudflare TV",
@@ -8760,6 +8730,12 @@
     "thumb": "https://i.imgur.com/2LAzcH8.jpg"
   },
   {
+    "title": "ConstanzaTV",
+    "countries": "Dominican Republic",
+    "src": "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8",
+    "thumb": "https://i.imgur.com/4uV90gw.png"
+  },
+  {
     "title": "Contivision",
     "countries": "Chile",
     "src": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
@@ -8940,6 +8916,12 @@
     "thumb": "https://i.imgur.com/RD4TgcM.png"
   },
   {
+    "title": "Cricket Gold",
+    "countries": "Australia",
+    "src": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+    "thumb": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png"
+  },
+  {
     "title": "Crimea 24",
     "countries": "Russia",
     "src": "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
@@ -8962,12 +8944,6 @@
     "countries": "Singapore",
     "src": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
-  },
-  {
-    "title": "Cristovision",
-    "countries": "Colombia",
-    "src": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-    "thumb": "https://i.imgur.com/XIhCUY9.png"
   },
   {
     "title": "CromTV",
@@ -9508,6 +9484,12 @@
     "countries": "India",
     "src": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8",
     "thumb": "https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png?lock=720x540"
+  },
+  {
+    "title": "DD India",
+    "countries": "India",
+    "src": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540"
   },
   {
     "title": "DD India",
@@ -10254,6 +10236,12 @@
     "thumb": "https://i.imgur.com/EwDQ12F.png"
   },
   {
+    "title": "Divyavani TV",
+    "countries": "India",
+    "src": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8",
+    "thumb": "https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png"
+  },
+  {
     "title": "Diyanet TV",
     "countries": "Turkiye",
     "src": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
@@ -10524,12 +10512,6 @@
     "thumb": "https://i.ibb.co/XFX7yw0/logo2-1.png"
   },
   {
-    "title": "Donna TV",
-    "countries": "Italy",
-    "src": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/39cSNHs.png"
-  },
-  {
     "title": "Don't Tell The Bride",
     "countries": "United Kingdom",
     "src": "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
@@ -10616,6 +10598,12 @@
   {
     "title": "DreamTV",
     "countries": "Mongolia",
+    "src": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+    "thumb": "https://i.imgur.com/YPbvzgV.png"
+  },
+  {
+    "title": "DreamTV",
+    "countries": "Mongolia",
     "src": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
     "thumb": "https://i.imgur.com/YPbvzgV.png"
   },
@@ -10624,6 +10612,12 @@
     "countries": "Mongolia",
     "src": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
     "thumb": "https://i.imgur.com/YPbvzgV.png"
+  },
+  {
+    "title": "Dream TV",
+    "countries": "Uganda",
+    "src": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8",
+    "thumb": "https://i.imgur.com/XRUDhqQ.png"
   },
   {
     "title": "Dr. Gene Scott",
@@ -10770,12 +10764,6 @@
     "thumb": "https://i.imgur.com/2dLYZsc.png"
   },
   {
-    "title": "Duende Tv",
-    "countries": "Ecuador",
-    "src": "https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8",
-    "thumb": "https://i.imgur.com/6125FPV.jpg"
-  },
-  {
     "title": "Dukh Nivaran",
     "countries": "Canada",
     "src": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
@@ -10869,12 +10857,6 @@
     "title": "DW",
     "countries": "Germany",
     "src": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-    "thumb": "https://i.imgur.com/8MRNFb9.png"
-  },
-  {
-    "title": "DW",
-    "countries": "Germany",
-    "src": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
     "thumb": "https://i.imgur.com/8MRNFb9.png"
   },
   {
@@ -11142,6 +11124,12 @@
     "thumb": "https://i.imgur.com/rMldFW8.png"
   },
   {
+    "title": "Efarina TV",
+    "countries": "Indonesia",
+    "src": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
+    "thumb": "https://i.imgur.com/iYTimXh.png"
+  },
+  {
     "title": "Egnatia TV",
     "countries": "Greece",
     "src": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
@@ -11280,12 +11268,6 @@
     "thumb": "https://i.imgur.com/yjuTl6N.png"
   },
   {
-    "title": "El Pituco TV",
-    "countries": "Dominican Republic",
-    "src": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8",
-    "thumb": "https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png"
-  },
-  {
     "title": "El Puerto TV",
     "countries": "Dominican Republic",
     "src": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
@@ -11296,12 +11278,6 @@
     "countries": "Egypt",
     "src": "https://9090video.mobtada.com/hls/stream.m3u8",
     "thumb": "https://www.9090.fm/images/logo.png"
-  },
-  {
-    "title": "El-Roi TV",
-    "countries": "Guatemala",
-    "src": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
-    "thumb": "https://i.imgur.com/h8S0eA4.png"
   },
   {
     "title": "El Seis 6",
@@ -11616,12 +11592,6 @@
     "thumb": "https://i.imgur.com/HF7N4Li.png"
   },
   {
-    "title": "Escambia County TV",
-    "countries": "United States",
-    "src": "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8",
-    "thumb": "https://i.imgur.com/TAvJdpo.png"
-  },
-  {
     "title": "Escuchame Radio TV",
     "countries": "Nicaragua",
     "src": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
@@ -11910,12 +11880,6 @@
     "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj"
   },
   {
-    "title": "ETV Manisa",
-    "countries": "Turkiye",
-    "src": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
-    "thumb": "https://i.ibb.co/QKXtdkz/sOd3INg.png"
-  },
-  {
     "title": "eTv Marche",
     "countries": "Italy",
     "src": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8",
@@ -12132,12 +12096,6 @@
     "thumb": "https://i.imgur.com/kFVVGrg.png"
   },
   {
-    "title": "Express Entertainment",
-    "countries": "Pakistan",
-    "src": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
-    "thumb": "https://i.imgur.com/rgHbb8W.png"
-  },
-  {
     "title": "Expressen TV",
     "countries": "Sweden",
     "src": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
@@ -12294,12 +12252,6 @@
     "thumb": "https://i.imgur.com/6B3Cims.png"
   },
   {
-    "title": "Familia Vision HD",
-    "countries": "Puerto Rico",
-    "src": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
-    "thumb": "https://i.imgur.com/uqTH7m5.jpg"
-  },
-  {
     "title": "FAN",
     "countries": "Russia",
     "src": "http://31.148.48.15/Fan/index.m3u8",
@@ -12340,6 +12292,12 @@
     "countries": "Puerto Rico",
     "src": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
     "thumb": "https://i.imgur.com/GoNBFzI.png"
+  },
+  {
+    "title": "Faros TV2",
+    "countries": "Greece",
+    "src": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+    "thumb": "https://i.imgur.com/7xtz1Jo.png"
   },
   {
     "title": "Farovision",
@@ -13086,6 +13044,12 @@
     "thumb": "https://i.imgur.com/3pGGLLD.png"
   },
   {
+    "title": "FRATA TV",
+    "countries": "Dominican Republic",
+    "src": "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8",
+    "thumb": "https://i.imgur.com/VxeTREd.png"
+  },
+  {
     "title": "Frecuencia F TV",
     "countries": "Colombia",
     "src": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
@@ -13728,12 +13692,6 @@
     "thumb": "https://i.imgur.com/vEMnZF4.png"
   },
   {
-    "title": "Generations TV",
-    "countries": "France",
-    "src": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
-    "thumb": "https://i.imgur.com/NgBrDMe.png"
-  },
-  {
     "title": "Geopolis TV",
     "countries": "Democratic Republic of the Congo",
     "src": "https://tnt-television.com/Geopolis_tv/index.m3u8",
@@ -13750,12 +13708,6 @@
     "countries": "United States",
     "src": "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8",
     "thumb": "https://i.imgur.com/4oVcjLd.png"
-  },
-  {
-    "title": "GET tv",
-    "countries": "Dominican Republic",
-    "src": "https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8",
-    "thumb": ""
   },
   {
     "title": "Gex TV",
@@ -13896,12 +13848,6 @@
     "thumb": "https://i.imgur.com/2u33Ayy.jpeg"
   },
   {
-    "title": "Gloob",
-    "countries": "Brazil",
-    "src": "http://79.127.243.211:14436/_.m3u8",
-    "thumb": "https://i.imgur.com/N1BUULh.png"
-  },
-  {
     "title": "Gnomi TV",
     "countries": "Greece",
     "src": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
@@ -13912,6 +13858,18 @@
     "countries": "United States",
     "src": "https://go2thls.wns.live/hls/stream.m3u8",
     "thumb": "https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png"
+  },
+  {
+    "title": "God Stands TV",
+    "countries": "Pakistan",
+    "src": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+    "thumb": "https://i.imgur.com/EO6cYUI.png"
+  },
+  {
+    "title": "God Stands TV",
+    "countries": "Pakistan",
+    "src": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+    "thumb": "https://i.imgur.com/EO6cYUI.png"
   },
   {
     "title": "God Stands TV",
@@ -13948,6 +13906,12 @@
     "countries": "Pakistan",
     "src": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
     "thumb": "https://i.imgur.com/EO6cYUI.png"
+  },
+  {
+    "title": "GOD TV",
+    "countries": "United Kingdom",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
+    "thumb": "https://i.imgur.com/hW4g2oe.png"
   },
   {
     "title": "Goiena Eus",
@@ -13990,18 +13954,6 @@
     "countries": "Iran",
     "src": "https://moviethls.wns.live/hls/stream.m3u8",
     "thumb": ""
-  },
-  {
-    "title": "Gold TV",
-    "countries": "Italy",
-    "src": "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/Yzc47k9.png"
-  },
-  {
-    "title": "Gold TV Sat",
-    "countries": "Italy",
-    "src": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8",
-    "thumb": "https://i.imgur.com/gQzNIg5.png"
   },
   {
     "title": "Golf Channel",
@@ -14098,6 +14050,12 @@
     "countries": "United States",
     "src": "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8",
     "thumb": "https://i.imgur.com/IaRcN1G.png"
+  },
+  {
+    "title": "GO TV",
+    "countries": "Paraguay",
+    "src": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+    "thumb": "https://i.ibb.co/jkvYVyz/Captura.png"
   },
   {
     "title": "GO-TV Canale 163",
@@ -14870,6 +14828,12 @@
   {
     "title": "Hindi Khabar",
     "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8",
+    "thumb": "https://i.imgur.com/iuz6K6i.png"
+  },
+  {
+    "title": "Hindi Khabar",
+    "countries": "India",
     "src": "https://cdn-2.pishow.tv/live/1041/master.m3u8",
     "thumb": "https://i.imgur.com/iuz6K6i.png"
   },
@@ -15006,12 +14970,6 @@
     "thumb": "https://i.imgur.com/FGsKCH3.png"
   },
   {
-    "title": "HLAT-DTV",
-    "countries": "South Korea",
-    "src": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/3VSuYsn.png"
-  },
-  {
     "title": "HLAW-DTV",
     "countries": "South Korea",
     "src": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8",
@@ -15040,6 +14998,12 @@
     "countries": "South Korea",
     "src": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
     "thumb": "https://i.imgur.com/Srsw4Mi.png"
+  },
+  {
+    "title": "HLDP-DTV",
+    "countries": "South Korea",
+    "src": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
+    "thumb": "https://i.imgur.com/BBCoqIf.png"
   },
   {
     "title": "HLDQ-DTV",
@@ -15302,6 +15266,12 @@
   {
     "title": "Hornbill TV",
     "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/7Y4vQnG.png"
+  },
+  {
+    "title": "Hornbill TV",
+    "countries": "India",
     "src": "https://cdn-2.pishow.tv/live/1463/master.m3u8",
     "thumb": "https://i.imgur.com/7Y4vQnG.png"
   },
@@ -15432,6 +15402,12 @@
     "thumb": "https://i.imgur.com/zvj1boM.jpg"
   },
   {
+    "title": "HTV2",
+    "countries": "Vietnam",
+    "src": "http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8",
+    "thumb": ""
+  },
+  {
     "title": "HTV 2 Houston Television",
     "countries": "United States",
     "src": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8",
@@ -15450,12 +15426,6 @@
     "thumb": ""
   },
   {
-    "title": "HTV9",
-    "countries": "Vietnam",
-    "src": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
-    "thumb": ""
-  },
-  {
     "title": "HTV Key",
     "countries": "Vietnam",
     "src": "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8",
@@ -15468,12 +15438,6 @@
     "thumb": "https://i.imgur.com/0WBsAin.png"
   },
   {
-    "title": "HTV Sports",
-    "countries": "Vietnam",
-    "src": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-    "thumb": ""
-  },
-  {
     "title": "Huda TV",
     "countries": "Egypt",
     "src": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
@@ -15484,6 +15448,12 @@
     "countries": "China",
     "src": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
     "thumb": "https://parco-zh.github.io/demo/HNWS.png"
+  },
+  {
+    "title": "Hunat TV",
+    "countries": "Turkiye",
+    "src": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/NrxHGnb.png"
   },
   {
     "title": "Hunedoara 1",
@@ -15538,12 +15508,6 @@
     "countries": "Indonesia",
     "src": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
     "thumb": "https://i.imgur.com/Gg6OcGT.png"
-  },
-  {
-    "title": "IBC 13",
-    "countries": "Philippines",
-    "src": "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8",
-    "thumb": "https://i.imgur.com/1KaTUOo.png"
   },
   {
     "title": "IBC 24",
@@ -15678,6 +15642,18 @@
     "thumb": "https://i.imgur.com/vHfb3Z4.png"
   },
   {
+    "title": "Ignite Television",
+    "countries": "Guyana",
+    "src": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8",
+    "thumb": "https://i.imgur.com/aQI9tsg.jpeg"
+  },
+  {
+    "title": "Ignite Television",
+    "countries": "Guyana",
+    "src": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/aQI9tsg.jpeg"
+  },
+  {
     "title": "IIPC TV",
     "countries": "Canada",
     "src": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
@@ -15726,12 +15702,6 @@
     "thumb": "https://i.imgur.com/DP6HmDV.png"
   },
   {
-    "title": "Imai TV",
-    "countries": "Sri Lanka",
-    "src": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/9tODclu.png"
-  },
-  {
     "title": "Imam Hussein TV 1",
     "countries": "Iraq",
     "src": "https://live.imamhossaintv.com/live/ih1.m3u8",
@@ -15754,12 +15724,6 @@
     "countries": "Iraq",
     "src": "https://live.imamhossaintv.com/live/ih4.m3u8",
     "thumb": "https://i.imgur.com/0UYcylY.png"
-  },
-  {
-    "title": "Imas TV",
-    "countries": "Spain",
-    "src": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8",
-    "thumb": "https://i.imgur.com/a9hgTmM.png"
   },
   {
     "title": "Imedi TV",
@@ -15831,6 +15795,12 @@
     "title": "India Today",
     "countries": "India",
     "src": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "title": "India Today",
+    "countries": "India",
+    "src": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
     "thumb": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -15969,6 +15939,12 @@
     "title": "INH 24x7",
     "countries": "India",
     "src": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+    "thumb": "https://i.imgur.com/Es3QiVx.png"
+  },
+  {
+    "title": "INH 24x7",
+    "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8",
     "thumb": "https://i.imgur.com/Es3QiVx.png"
   },
   {
@@ -16326,12 +16302,6 @@
     "thumb": "https://i.imgur.com/TDSgG28.png"
   },
   {
-    "title": "Italia 7",
-    "countries": "Italy",
-    "src": "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8",
-    "thumb": "https://i.imgur.com/xc0kUHk.png"
-  },
-  {
     "title": "Italian Fishing TV",
     "countries": "Italy",
     "src": "https://fms.premio.link/fishingtv/playlist.m3u8",
@@ -16500,24 +16470,6 @@
     "thumb": "https://i.imgur.com/mRSQ5bP.png"
   },
   {
-    "title": "JBS",
-    "countries": "United States",
-    "src": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-    "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "title": "JBS",
-    "countries": "United States",
-    "src": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8",
-    "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj"
-  },
-  {
-    "title": "JBS",
-    "countries": "United States",
-    "src": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-    "thumb": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj"
-  },
-  {
     "title": "JC1",
     "countries": "Czech Republic",
     "src": "https://stream.jc1.cz/hls/jc1.m3u8",
@@ -16572,16 +16524,10 @@
     "thumb": "https://i.imgur.com/SrmI6nU.jpeg"
   },
   {
-    "title": "Jiangsu City Channel",
-    "countries": "China",
-    "src": "http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS",
-    "thumb": "https://www.tvchinese.net/uploads/tv/jscs.jpg"
-  },
-  {
-    "title": "Jiangsu Public & News Channel",
-    "countries": "China",
-    "src": "http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG",
-    "thumb": "https://www.tvchinese.net/uploads/tv/jsgg.jpg"
+    "title": "Jihoceska televize",
+    "countries": "Czech Republic",
+    "src": "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8",
+    "thumb": "https://i.imgur.com/Hi8hZzl.png"
   },
   {
     "title": "Jimani TV",
@@ -16710,12 +16656,6 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
   },
   {
-    "title": "JPD TV",
-    "countries": "Dominican Republic",
-    "src": "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8",
-    "thumb": "https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png"
-  },
-  {
     "title": "JRTV Jarviradio",
     "countries": "Finland",
     "src": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
@@ -16815,6 +16755,12 @@
     "title": "Just for Laughs Gags",
     "countries": "United States",
     "src": "https://distributionsjustepourrire-justforlaughsgags-1-se.samsung.wurl.tv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/HjVEVMJ.png"
+  },
+  {
+    "title": "Just for Laughs Gags",
+    "countries": "United States",
+    "src": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8",
     "thumb": "https://i.imgur.com/HjVEVMJ.png"
   },
   {
@@ -17086,6 +17032,12 @@
     "countries": "Turkiye",
     "src": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8",
     "thumb": "https://i.imgur.com/7RNjTno.png"
+  },
+  {
+    "title": "KandelaTV",
+    "countries": "Venezuela",
+    "src": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
+    "thumb": "https://i.imgur.com/cCFxyIp.jpg"
   },
   {
     "title": "Kanizsa TV",
@@ -17436,6 +17388,12 @@
     "thumb": ""
   },
   {
+    "title": "Khabrain Abhi Tak",
+    "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "title": "Khatlon",
     "countries": "Tajikistan",
     "src": "https://live.teleradiocom.tj/10/3m.m3u8",
@@ -17476,18 +17434,6 @@
     "countries": "United States",
     "src": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
     "thumb": "https://i.imgur.com/mhAAIa2.png"
-  },
-  {
-    "title": "Kids TV",
-    "countries": "Indonesia",
-    "src": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
-    "thumb": "https://i.imgur.com/B5YiUIP.png"
-  },
-  {
-    "title": "KIIO-LD 10.4",
-    "countries": "United States",
-    "src": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8",
-    "thumb": "https://i.imgur.com/Spu4s89.png"
   },
   {
     "title": "KiKA",
@@ -18474,12 +18420,6 @@
     "thumb": "https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg"
   },
   {
-    "title": "La Hermandad Salsera",
-    "countries": "Colombia",
-    "src": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
-    "thumb": "https://i.imgur.com/7Wlt6bc.png"
-  },
-  {
     "title": "La Hora TV",
     "countries": "Dominican Republic",
     "src": "https://edge.enhdtv.com/8206/index.m3u8",
@@ -18804,12 +18744,6 @@
     "thumb": "https://i.imgur.com/i2GnQTq.png"
   },
   {
-    "title": "Lazio TV",
-    "countries": "Italy",
-    "src": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/TNLD9yD.png"
-  },
-  {
     "title": "LBFD RTV",
     "countries": "Democratic Republic of the Congo",
     "src": "https://tnt-television.com/LBFD_RTV/index.m3u8",
@@ -18838,18 +18772,6 @@
     "countries": "Russia",
     "src": "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8",
     "thumb": "https://i.imgur.com/gCmCRfe.png"
-  },
-  {
-    "title": "Le Cronache TV",
-    "countries": "Italy",
-    "src": "http://77.68.40.210:8888/hls/cronache.m3u8",
-    "thumb": "https://i.imgur.com/d8ziiEJ.png"
-  },
-  {
-    "title": "Le Cronache TV",
-    "countries": "Italy",
-    "src": "http://stucazz.com:8888/hls/cronache.m3u8",
-    "thumb": "https://i.imgur.com/d8ziiEJ.png"
   },
   {
     "title": "Le Figaro TV Ile-de-France",
@@ -18960,6 +18882,12 @@
     "thumb": "https://i.imgur.com/d5w2pT4.png"
   },
   {
+    "title": "Liaoning TV",
+    "countries": "China",
+    "src": "http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv",
+    "thumb": "https://i.imgur.com/XRfeNTd.png"
+  },
+  {
     "title": "Libertas TV",
     "countries": "Croatia",
     "src": "https://stream.luci.xyz/hls/LTV.m3u8",
@@ -19062,6 +18990,12 @@
     "thumb": "https://i.ibb.co/rdpcv7C/1689421727166.jpg"
   },
   {
+    "title": "LIM TV",
+    "countries": "Paraguay",
+    "src": "https://tv.invasivamedia.com/hls/limtv.m3u8",
+    "thumb": "https://i.imgur.com/CALoCyo.png"
+  },
+  {
     "title": "Line TV",
     "countries": "Turkiye",
     "src": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
@@ -19084,12 +19018,6 @@
     "countries": "Netherlands",
     "src": "https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8",
     "thumb": "https://i.imgur.com/0DgP3vu.png"
-  },
-  {
-    "title": "LiraTV",
-    "countries": "Spain",
-    "src": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/hBswXYZ.png"
   },
   {
     "title": "Lira TV",
@@ -19120,12 +19048,6 @@
     "countries": "Argentina",
     "src": "https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8",
     "thumb": "https://i.imgur.com/QIGSf4L.png"
-  },
-  {
-    "title": "Live99FM",
-    "countries": "Bonaire",
-    "src": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
-    "thumb": "https://i.imgur.com/U43UrQT.png"
   },
   {
     "title": "LiveNOW from FOX",
@@ -19240,12 +19162,6 @@
     "countries": "Brazil",
     "src": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
     "thumb": "https://i.imgur.com/R0aflu1.png"
-  },
-  {
-    "title": "Lobo TV",
-    "countries": "Mexico",
-    "src": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
-    "thumb": "https://i.imgur.com/3fA50RJ.png"
   },
   {
     "title": "Localish",
@@ -19536,12 +19452,6 @@
     "thumb": "https://i.imgur.com/1j4gwL3.png"
   },
   {
-    "title": "Lugansk 24",
-    "countries": "Ukraine",
-    "src": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
-    "thumb": "https://i.imgur.com/AihoVc0.png"
-  },
-  {
     "title": "Luna TV",
     "countries": "Italy",
     "src": "https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8",
@@ -19786,12 +19696,6 @@
     "countries": "Saudi Arabia",
     "src": "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8",
     "thumb": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg"
-  },
-  {
-    "title": "Makan 33",
-    "countries": "Israel",
-    "src": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
-    "thumb": "https://i.imgur.com/RVtQTed.png"
   },
   {
     "title": "Makao TV",
@@ -20538,12 +20442,6 @@
     "thumb": "https://i.imgur.com/q7iVchl.png"
   },
   {
-    "title": "Melody FM",
-    "countries": "Jordan",
-    "src": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-    "thumb": "https://i.imgur.com/J8omcNz.png"
-  },
-  {
     "title": "Mel Radio TV",
     "countries": "Ecuador",
     "src": "https://eu1.servers10.com:8081/8334/index.m3u8",
@@ -21156,6 +21054,24 @@
     "thumb": "https://i.imgur.com/PHlj84Q.png"
   },
   {
+    "title": "M-Net HD",
+    "countries": "North Macedonia",
+    "src": "http://ares.mnet.mk/hls/mnet.m3u8",
+    "thumb": "https://i.imgur.com/HDYqWuR.png"
+  },
+  {
+    "title": "M-Net Kids",
+    "countries": "North Macedonia",
+    "src": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
+    "thumb": "https://i.imgur.com/SbKkpuH.png"
+  },
+  {
+    "title": "M-Net Sport",
+    "countries": "North Macedonia",
+    "src": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+    "thumb": "https://i.imgur.com/7k8ar1Z.png"
+  },
+  {
     "title": "MN+",
     "countries": "Mongolia",
     "src": "https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8",
@@ -21498,18 +21414,6 @@
     "thumb": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png"
   },
   {
-    "title": "MRTV",
-    "countries": "Myanmar",
-    "src": "https://mrtvott.com/cache/MRTV-HD/master.m3u8",
-    "thumb": "https://i.imgur.com/uyv7oJH.png"
-  },
-  {
-    "title": "MRTV NRC",
-    "countries": "Myanmar",
-    "src": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
-    "thumb": "https://i.imgur.com/5aLFslk.jpg"
-  },
-  {
     "title": "MRVTV Channel 44",
     "countries": "United States",
     "src": "https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
@@ -21630,6 +21534,12 @@
     "thumb": "https://i.imgur.com/JxoAR4j.png"
   },
   {
+    "title": "MTNA TV",
+    "countries": "Chile",
+    "src": "https://live.mtna.tv/hls/mtna/mtna.m3u8",
+    "thumb": "https://i.imgur.com/v7SA92F.png"
+  },
+  {
     "title": "MTR",
     "countries": "Slovakia",
     "src": "https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8",
@@ -21682,12 +21592,6 @@
     "countries": "Russia",
     "src": "http://31.148.48.15/Mult/index.m3u8",
     "thumb": "https://i.imgur.com/xi351Fx.png"
-  },
-  {
-    "title": "Multicanal Catamayo",
-    "countries": "Ecuador",
-    "src": "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
-    "thumb": "https://i.imgur.com/IHKBGmu.png"
   },
   {
     "title": "Multilandia",
@@ -22464,15 +22368,33 @@
     "thumb": "https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540"
   },
   {
+    "title": "NDTV 24x7",
+    "countries": "India",
+    "src": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "title": "NDTV Good Times",
     "countries": "India",
     "src": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
     "thumb": "https://i.imgur.com/7cruYvo.png"
   },
   {
+    "title": "NDTV Good Times",
+    "countries": "India",
+    "src": "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8",
+    "thumb": "https://i.imgur.com/7cruYvo.png"
+  },
+  {
     "title": "NDTV India",
     "countries": "India",
     "src": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s157588_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "title": "NDTV India",
+    "countries": "India",
+    "src": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8",
     "thumb": "https://dtil.tmsimg.com/assets/s157588_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -22578,12 +22500,6 @@
     "thumb": "https://i.imgur.com/K4Uve1n.png"
   },
   {
-    "title": "Netalkole TV",
-    "countries": "Haiti",
-    "src": "https://watch.haitilive.net/naktvhd/index.m3u8",
-    "thumb": "https://i.imgur.com/SdVrpzY.png"
-  },
-  {
     "title": "Netmax TV",
     "countries": "Greece",
     "src": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
@@ -22632,6 +22548,12 @@
     "thumb": ""
   },
   {
+    "title": "News 1 India",
+    "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8",
+    "thumb": "https://i.imgur.com/J3EWn2J.png"
+  },
+  {
     "title": "News 1st",
     "countries": "India",
     "src": "https://cdn-3.pishow.tv/live/268/master.m3u8",
@@ -22654,6 +22576,18 @@
     "countries": "India",
     "src": "https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8",
     "thumb": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png"
+  },
+  {
+    "title": "News9Live",
+    "countries": "India",
+    "src": "https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8",
+    "thumb": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png"
+  },
+  {
+    "title": "News 11",
+    "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8",
+    "thumb": "https://i.imgur.com/brLsWXU.png"
   },
   {
     "title": "News12 Bronx",
@@ -23310,6 +23244,12 @@
     "thumb": "https://i.imgur.com/nGJv6QR.png"
   },
   {
+    "title": "Nitida TV",
+    "countries": "Dominican Republic",
+    "src": "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8",
+    "thumb": "https://i.imgur.com/z9JkxcM.png"
+  },
+  {
     "title": "Nizhniy Novgorod 24",
     "countries": "Russia",
     "src": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
@@ -23344,6 +23284,12 @@
     "countries": "Germany",
     "src": "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
     "thumb": "https://i.imgur.com/941nrGb.png"
+  },
+  {
+    "title": "NogoumFMTV",
+    "countries": "Egypt",
+    "src": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+    "thumb": "https://i.imgur.com/krp3kgv.png"
   },
   {
     "title": "Nolly Africa",
@@ -23464,6 +23410,12 @@
     "countries": "Belgium",
     "src": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
     "thumb": "https://i.imgur.com/fGS55nR.png"
+  },
+  {
+    "title": "Noticias 16",
+    "countries": "Dominican Republic",
+    "src": "https://edge.essastream.com/noticias16/playlist.m3u8",
+    "thumb": ""
   },
   {
     "title": "Noticiero 90 Minutos",
@@ -23844,12 +23796,6 @@
     "thumb": "https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png"
   },
   {
-    "title": "NTM",
-    "countries": "Russia",
-    "src": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
-    "thumb": "https://i.imgur.com/AH50pGT.png"
-  },
-  {
     "title": "NTS",
     "countries": "Russia",
     "src": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
@@ -24166,12 +24112,6 @@
     "countries": "United States",
     "src": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
     "thumb": "https://i.imgur.com/iSB5Obl.png"
-  },
-  {
-    "title": "Odeon 24",
-    "countries": "Italy",
-    "src": "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8",
-    "thumb": "https://i.imgur.com/Ho7SdXY.png"
   },
   {
     "title": "Odisha TV",
@@ -24722,7 +24662,7 @@
   {
     "title": "ORTB TV",
     "countries": "Benin",
-    "src": "http://69.64.57.208/ortb/playlist.m3u8",
+    "src": "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8",
     "thumb": "https://i.imgur.com/o6zAR88.png"
   },
   {
@@ -24900,12 +24840,6 @@
     "thumb": "https://i.imgur.com/MGMhUDx.png"
   },
   {
-    "title": "OxiTV",
-    "countries": "Dominican Republic",
-    "src": "https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8",
-    "thumb": "https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg"
-  },
-  {
     "title": "O'zbekiston 24",
     "countries": "Uzbekistan",
     "src": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
@@ -24976,6 +24910,12 @@
     "countries": "United States",
     "src": "https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8",
     "thumb": "https://i.imgur.com/OtT1qYE.png"
+  },
+  {
+    "title": "Padang TV",
+    "countries": "Indonesia",
+    "src": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
+    "thumb": "https://i.imgur.com/EL2BfxY.png"
   },
   {
     "title": "Padre Pio TV",
@@ -25206,12 +25146,6 @@
     "thumb": "https://i.imgur.com/A4gqEmG.png"
   },
   {
-    "title": "PBC Tapesh TV",
-    "countries": "United States",
-    "src": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
-    "thumb": "https://i.imgur.com/50JzsmH.png"
-  },
-  {
     "title": "PBC TV Channel 20",
     "countries": "United States",
     "src": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8",
@@ -25348,12 +25282,6 @@
     "countries": "United Arab Emirates",
     "src": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
     "thumb": "https://i.imgur.com/rjgCM2B.png"
-  },
-  {
-    "title": "Peace TV Urdu",
-    "countries": "United Arab Emirates",
-    "src": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "thumb": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "title": "Peer TV Alto Adige",
@@ -25602,6 +25530,12 @@
     "thumb": "https://i.imgur.com/8qdc6aO.png"
   },
   {
+    "title": "Pervyy Respublikanskiy",
+    "countries": "Russia",
+    "src": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
+    "thumb": "https://i.imgur.com/ti4OMBv.png"
+  },
+  {
     "title": "Petange Info TV",
     "countries": "Luxembourg",
     "src": "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8",
@@ -25752,6 +25686,12 @@
     "thumb": "https://i.imgur.com/TZqOINg.png"
   },
   {
+    "title": "Plzen TV",
+    "countries": "Czech Republic",
+    "src": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+    "thumb": "https://i.imgur.com/TxLKSqL.png"
+  },
+  {
     "title": "PMC",
     "countries": "United Arab Emirates",
     "src": "https://pmchls.wns.live/hls/stream.m3u8",
@@ -25876,6 +25816,12 @@
     "countries": "United States",
     "src": "https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8",
     "thumb": "https://i.imgur.com/80gaUbq.png"
+  },
+  {
+    "title": "PONTV",
+    "countries": "Indonesia",
+    "src": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
+    "thumb": "https://i.imgur.com/P5erWzm.png"
   },
   {
     "title": "Pop",
@@ -26784,12 +26730,6 @@
     "thumb": "https://i.imgur.com/SVJiXxh.png"
   },
   {
-    "title": "Raajje TV",
-    "countries": "Maldives",
-    "src": "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8",
-    "thumb": "https://i.imgur.com/QxdkiCZ.png"
-  },
-  {
     "title": "Rabeh Saqer",
     "countries": "Saudi Arabia",
     "src": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8",
@@ -26830,12 +26770,6 @@
     "countries": "United States",
     "src": "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8",
     "thumb": "https://i.imgur.com/CurtYvn.png"
-  },
-  {
-    "title": "Radar Tasikmalaya TV",
-    "countries": "Indonesia",
-    "src": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png"
   },
   {
     "title": "Rada TV",
@@ -27096,12 +27030,6 @@
     "thumb": "https://i.imgur.com/TJNXjS2.png"
   },
   {
-    "title": "Radio Monumental TV",
-    "countries": "Ecuador",
-    "src": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
-    "thumb": "https://i.imgur.com/a97MaV2.png"
-  },
-  {
     "title": "Radio Nacional del Paraguay",
     "countries": "Paraguay",
     "src": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
@@ -27118,12 +27046,6 @@
     "countries": "Italy",
     "src": "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8",
     "thumb": "https://i.imgur.com/8cpuaG5.png"
-  },
-  {
-    "title": "Radio Omega TV",
-    "countries": "Honduras",
-    "src": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
-    "thumb": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg"
   },
   {
     "title": "Radio Piter Pan TV",
@@ -27404,6 +27326,12 @@
   {
     "title": "Rai 3",
     "countries": "Italy",
+    "src": "https://srv1.adriatelekom.com/Rai3/index.m3u8",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"
+  },
+  {
+    "title": "Rai 3",
+    "countries": "Italy",
     "src": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png"
   },
@@ -27476,6 +27404,12 @@
   {
     "title": "Rai Storia",
     "countries": "Italy",
+    "src": "https://srv1.adriatelekom.com/RaiStoria/index.m3u8",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png"
+  },
+  {
+    "title": "Rai Storia",
+    "countries": "Italy",
     "src": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png"
   },
@@ -27484,12 +27418,6 @@
     "countries": "Italy",
     "src": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
     "thumb": "https://i.imgur.com/9gCxiDy.png"
-  },
-  {
-    "title": "Rajawali TV",
-    "countries": "Indonesia",
-    "src": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
-    "thumb": "https://i.imgur.com/dlsv1sl.png"
   },
   {
     "title": "Rajeen TV",
@@ -27580,12 +27508,6 @@
     "countries": "Iran",
     "src": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
     "thumb": "https://i.imgur.com/Jh5ADee.png"
-  },
-  {
-    "title": "Rave TV",
-    "countries": "Nigeria",
-    "src": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8",
-    "thumb": "https://i.imgur.com/pXKQE0G.png"
   },
   {
     "title": "RBATV",
@@ -27954,12 +27876,6 @@
     "thumb": "https://i.imgur.com/UGnm1jd.png"
   },
   {
-    "title": "Regional TV Yaguaron",
-    "countries": "Paraguay",
-    "src": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
-    "thumb": "https://i.imgur.com/iL5JnSy.jpeg"
-  },
-  {
     "title": "Regio TV",
     "countries": "Slovakia",
     "src": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
@@ -28012,12 +27928,6 @@
     "countries": "Ukraine",
     "src": "http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8",
     "thumb": "https://i.imgur.com/qL1uNlW.png"
-  },
-  {
-    "title": "REN TV",
-    "countries": "Russia",
-    "src": "http://tmptv.sunduk.tv/CH189/index.m3u8",
-    "thumb": "https://i.imgur.com/0Tu5lte.png"
   },
   {
     "title": "REN TV",
@@ -28092,6 +28002,12 @@
     "thumb": "https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540"
   },
   {
+    "title": "Republic Bharat",
+    "countries": "India",
+    "src": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "title": "Republic Kannada",
     "countries": "India",
     "src": "https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8",
@@ -28119,6 +28035,12 @@
     "title": "Republic TV",
     "countries": "India",
     "src": "https://cdn-2.pishow.tv/live/271/master.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "title": "Republic TV",
+    "countries": "India",
+    "src": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8",
     "thumb": "https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -28180,6 +28102,12 @@
     "countries": "Chile",
     "src": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8",
     "thumb": "https://i.imgur.com/5G5kian.png"
+  },
+  {
+    "title": "Retrox TV",
+    "countries": "Costa Rica",
+    "src": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/viJBL6f.png"
   },
   {
     "title": "R&E TV",
@@ -28376,6 +28304,12 @@
   {
     "title": "RNN",
     "countries": "Dominican Republic",
+    "src": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
+    "thumb": "https://i.imgur.com/12Z9qPw.png"
+  },
+  {
+    "title": "RNN",
+    "countries": "Dominican Republic",
     "src": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
     "thumb": "https://i.imgur.com/12Z9qPw.png"
   },
@@ -28474,6 +28408,12 @@
     "countries": "India",
     "src": "https://cdn-4.pishow.tv/live/1029/master.m3u8",
     "thumb": "https://i.imgur.com/9gImDY5.png"
+  },
+  {
+    "title": "Rossiya 1 Vainah",
+    "countries": "Russia",
+    "src": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
+    "thumb": "https://i.imgur.com/GnbNG0r.png"
   },
   {
     "title": "Rotana Radio Jordan Studio",
@@ -28582,12 +28522,6 @@
     "countries": "Burkina Faso",
     "src": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
     "thumb": "https://i.imgur.com/OFZm8ic.png"
-  },
-  {
-    "title": "RTB",
-    "countries": "Burkina Faso",
-    "src": "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
-    "thumb": "https://i.imgur.com/BFfLV0y.png"
   },
   {
     "title": "RTB Aneka",
@@ -28914,6 +28848,18 @@
     "thumb": "https://i.imgur.com/oVXO950.jpeg"
   },
   {
+    "title": "RTP 1",
+    "countries": "Portugal",
+    "src": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
+    "thumb": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png"
+  },
+  {
+    "title": "RTP 2",
+    "countries": "Portugal",
+    "src": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
+    "thumb": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png"
+  },
+  {
     "title": "RTP",
     "countries": "Bolivia",
     "src": "https://rtp.noxun.net/hls/stream.m3u8",
@@ -28948,6 +28894,12 @@
     "countries": "Portugal",
     "src": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
     "thumb": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png"
+  },
+  {
+    "title": "RTP Mundo",
+    "countries": "Portugal",
+    "src": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png"
   },
   {
     "title": "RTP Noticias",
@@ -30870,6 +30822,12 @@
     "thumb": "https://i.imgur.com/chNBF5t.png"
   },
   {
+    "title": "S4C",
+    "countries": "United Kingdom",
+    "src": "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8",
+    "thumb": "https://i.imgur.com/vrcbnBv.png"
+  },
+  {
     "title": "Saam TV",
     "countries": "India",
     "src": "https://cdn-3.pishow.tv/live/437/master.m3u8",
@@ -30898,12 +30856,6 @@
     "countries": "South Africa",
     "src": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
     "thumb": "https://i.imgur.com/liLta8j.png"
-  },
-  {
-    "title": "SAB TV",
-    "countries": "Pakistan",
-    "src": "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8",
-    "thumb": "https://i.imgur.com/hC7Sidr.png"
   },
   {
     "title": "Sachsen Eins",
@@ -31113,6 +31065,12 @@
     "title": "Sana Plus",
     "countries": "India",
     "src": "https://galaxyott.live/hls/sanaplus.m3u8",
+    "thumb": "https://i.imgur.com/N6tKUZv.png"
+  },
+  {
+    "title": "Sana Plus",
+    "countries": "India",
+    "src": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
     "thumb": "https://i.imgur.com/N6tKUZv.png"
   },
   {
@@ -31404,6 +31362,12 @@
     "thumb": "https://i.imgur.com/E3fvpwn.png"
   },
   {
+    "title": "SBS6 Classics",
+    "countries": "Netherlands",
+    "src": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png"
+  },
+  {
     "title": "SBT Cuiaba",
     "countries": "Brazil",
     "src": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8",
@@ -31632,6 +31596,12 @@
     "thumb": "https://i.imgur.com/1qJMmBu.png"
   },
   {
+    "title": "Serie Max",
+    "countries": "Ivory Coast",
+    "src": "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8",
+    "thumb": "https://i.imgur.com/GaRQXHT.png"
+  },
+  {
     "title": "Sertao TV",
     "countries": "Brazil",
     "src": "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8",
@@ -31809,6 +31779,18 @@
     "title": "Shanson TV",
     "countries": "Russia",
     "src": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
+    "thumb": "https://i.imgur.com/Fk4sd8t.png"
+  },
+  {
+    "title": "Shanson TV",
+    "countries": "Russia",
+    "src": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+    "thumb": "https://i.imgur.com/Fk4sd8t.png"
+  },
+  {
+    "title": "Shanson TV",
+    "countries": "Russia",
+    "src": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
     "thumb": "https://i.imgur.com/Fk4sd8t.png"
   },
   {
@@ -32010,12 +31992,6 @@
     "thumb": "https://i.imgur.com/W2EUIL2.png"
   },
   {
-    "title": "Sichuan Satellite TV",
-    "countries": "China",
-    "src": "http://183.207.248.71/gitv/live1/SCWS/SCWS",
-    "thumb": "https://i.imgur.com/r5xivih.png"
-  },
-  {
     "title": "SIC Replay",
     "countries": "Portugal",
     "src": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
@@ -32074,6 +32050,18 @@
     "countries": "China",
     "src": "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598",
     "thumb": "https://www.tvchinese.net/uploads/tv/sptv1.jpg"
+  },
+  {
+    "title": "SIPSE TV 8.1",
+    "countries": "Mexico",
+    "src": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+    "thumb": "https://i.imgur.com/123P7dV.png"
+  },
+  {
+    "title": "SIPSE TVCUN 8.1",
+    "countries": "Mexico",
+    "src": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+    "thumb": "https://i.imgur.com/uiTgClU.png"
   },
   {
     "title": "Sirasa TV",
@@ -32440,6 +32428,12 @@
     "countries": "Guatemala",
     "src": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
     "thumb": "https://i.ibb.co/YXYv8sf/logo-soltv2.png"
+  },
+  {
+    "title": "Somos TV",
+    "countries": "Venezuela",
+    "src": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/jOroeJZ.png"
   },
   {
     "title": "Sonata TV",
@@ -32905,12 +32899,6 @@
   },
   {
     "title": "Start TV",
-    "countries": "Azerbaijan",
-    "src": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8",
-    "thumb": ""
-  },
-  {
-    "title": "Start TV",
     "countries": "Greece",
     "src": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
     "thumb": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg"
@@ -33354,6 +33342,12 @@
     "thumb": "https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540"
   },
   {
+    "title": "Sudarshan News",
+    "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "title": "Sukan RTM",
     "countries": "Malaysia",
     "src": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
@@ -33484,12 +33478,6 @@
     "countries": "Italy",
     "src": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png"
-  },
-  {
-    "title": "Super TV 55",
-    "countries": "Dominican Republic",
-    "src": "https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8",
-    "thumb": "https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg"
   },
   {
     "title": "Super TV",
@@ -33784,12 +33772,6 @@
     "countries": "Kosovo",
     "src": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8",
     "thumb": "https://i.imgur.com/b7FvSJj.png"
-  },
-  {
-    "title": "T9",
-    "countries": "Italy",
-    "src": "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8",
-    "thumb": "https://i.imgur.com/kQKzpYj.png"
   },
   {
     "title": "T18",
@@ -34218,6 +34200,12 @@
     "thumb": "https://i.imgur.com/xeTtup8.png"
   },
   {
+    "title": "TeleBrunca",
+    "countries": "Costa Rica",
+    "src": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
+    "thumb": "https://i.imgur.com/m3xu6Ms.png"
+  },
+  {
     "title": "Telecafe",
     "countries": "Colombia",
     "src": "https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8",
@@ -34285,6 +34273,12 @@
   },
   {
     "title": "Telecinco",
+    "countries": "Argentina",
+    "src": "https://videohd.live:19360/8016/8016.m3u8",
+    "thumb": "https://i.imgur.com/ZDenyAE.png"
+  },
+  {
+    "title": "Telecinco",
     "countries": "Spain",
     "src": "http://92.176.119.180:2095/play/a15y",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg"
@@ -34312,12 +34306,6 @@
     "countries": "Peru",
     "src": "https://live.obslivestream.com/telecolormux/index.m3u8",
     "thumb": "https://i.imgur.com/Ug6XNIU.png"
-  },
-  {
-    "title": "Telecomercio TV",
-    "countries": "Dominican Republic",
-    "src": "https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8",
-    "thumb": "https://imgur.com/FtV5TCs.jpg"
   },
   {
     "title": "Tele Congo",
@@ -34366,12 +34354,6 @@
     "countries": "Spain",
     "src": "http://92.176.119.180:2095/play/a1f6",
     "thumb": "https://i.ibb.co/0jxLdjnY/TDP.png"
-  },
-  {
-    "title": "Tele Dominicana TV",
-    "countries": "Dominican Republic",
-    "src": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
-    "thumb": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png"
   },
   {
     "title": "Tele Elx",
@@ -34698,16 +34680,16 @@
     "thumb": "https://tvtvtv.ru/icons/telepace_trento.png"
   },
   {
+    "title": "Telepacifico",
+    "countries": "Colombia",
+    "src": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
+    "thumb": "https://i.imgur.com/39hy97J.png"
+  },
+  {
     "title": "TelePaks",
     "countries": "Hungary",
     "src": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
     "thumb": "https://i.imgur.com/T8ueztB.png"
-  },
-  {
-    "title": "Tele Pam",
-    "countries": "United States",
-    "src": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8",
-    "thumb": "https://i.ibb.co/xMYMyHh/telepammmm.png"
   },
   {
     "title": "Tele Pam",
@@ -34794,6 +34776,12 @@
     "thumb": "https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png"
   },
   {
+    "title": "Telequince",
+    "countries": "Paraguay",
+    "src": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+    "thumb": "https://i.imgur.com/og7xuqe.png"
+  },
+  {
     "title": "TeleRadioNorte",
     "countries": "Dominican Republic",
     "src": "https://angelistic.live:3785/live/tvoficiallive.m3u8",
@@ -34842,12 +34830,6 @@
     "thumb": "https://i.imgur.com/GGPtHX3.png"
   },
   {
-    "title": "Tele Safor",
-    "countries": "Spain",
-    "src": "https://video.telesafor.com/hls/video.m3u8",
-    "thumb": "https://i.imgur.com/EowJfr0.png"
-  },
-  {
     "title": "Tele Sahel",
     "countries": "Niger",
     "src": "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8",
@@ -34860,6 +34842,12 @@
     "thumb": "https://i.imgur.com/vboq428.png"
   },
   {
+    "title": "Tele Saltillo",
+    "countries": "Mexico",
+    "src": "https://servilive.com:3879/live/telesaltillolive.m3u8",
+    "thumb": "https://i.imgur.com/PgBtvgO.png"
+  },
+  {
     "title": "TeleSanDomenico",
     "countries": "Italy",
     "src": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8",
@@ -34870,12 +34858,6 @@
     "countries": "Colombia",
     "src": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
     "thumb": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png"
-  },
-  {
-    "title": "Teleselva",
-    "countries": "Peru",
-    "src": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
-    "thumb": "https://i.imgur.com/cu7hTn8.png"
   },
   {
     "title": "TELESIGLO",
@@ -34990,6 +34972,12 @@
     "countries": "Costa Rica",
     "src": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8",
     "thumb": "https://i.imgur.com/eRwYxc2.png"
+  },
+  {
+    "title": "Tele UV",
+    "countries": "Mexico",
+    "src": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+    "thumb": "https://i.imgur.com/8MdUH69.jpeg"
   },
   {
     "title": "Telever",
@@ -35142,6 +35130,12 @@
     "thumb": "https://i.imgur.com/FB9H8DO.png"
   },
   {
+    "title": "Telewizja Relax",
+    "countries": "Poland",
+    "src": "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8",
+    "thumb": "https://i.imgur.com/dejnH0O.png"
+  },
+  {
     "title": "Telewizja Torun",
     "countries": "Poland",
     "src": "http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8",
@@ -35194,12 +35188,6 @@
     "countries": "Turkiye",
     "src": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
     "thumb": "https://i.imgur.com/tZpx32y.png"
-  },
-  {
-    "title": "Tenarenses TV",
-    "countries": "Dominican Republic",
-    "src": "https://edge.essastream.com/tenarensestvrd/playlist.m3u8",
-    "thumb": "https://i.imgur.com/cPIgs0v.png"
   },
   {
     "title": "TEN Canal 10",
@@ -35778,6 +35766,12 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"
   },
   {
+    "title": "Tigo Sports",
+    "countries": "El Salvador",
+    "src": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"
+  },
+  {
     "title": "Tigo Sports+",
     "countries": "Paraguay",
     "src": "http://45.170.130.224:8000/play/a04i/index.m3u8",
@@ -35799,7 +35793,13 @@
     "title": "Times Now Navbharat",
     "countries": "India",
     "src": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
-    "thumb": "https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540"
+    "thumb": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png"
+  },
+  {
+    "title": "Times Now Navbharat",
+    "countries": "India",
+    "src": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TimesNowNavbharat.m3u8",
+    "thumb": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png"
   },
   {
     "title": "Timor TV",
@@ -35860,6 +35860,12 @@
     "countries": "Austria",
     "src": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png"
+  },
+  {
+    "title": "TIS TV",
+    "countries": "Ukraine",
+    "src": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8",
+    "thumb": "https://i.imgur.com/jDaoUt5.png"
   },
   {
     "title": "Tito TV",
@@ -36168,12 +36174,6 @@
     "thumb": "https://i.imgur.com/pGm8QCj.png"
   },
   {
-    "title": "Toonami Aftermath",
-    "countries": "United States",
-    "src": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
-    "thumb": "https://i.imgur.com/aSjhZK7.png"
-  },
-  {
     "title": "ToonGoggles",
     "countries": "United States",
     "src": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
@@ -36258,12 +36258,6 @@
     "thumb": "https://i.imgur.com/UfN6aAi.png"
   },
   {
-    "title": "Top TV",
-    "countries": "Peru",
-    "src": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
-    "thumb": "https://i.imgur.com/tiNvihZ.png"
-  },
-  {
     "title": "Torococo TV",
     "countries": "Venezuela",
     "src": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
@@ -36322,6 +36316,12 @@
     "countries": "United Kingdom",
     "src": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8",
     "thumb": "https://static.elektamedia.com/ch/tmc_dance.png"
+  },
+  {
+    "title": "Total TV Haryana",
+    "countries": "India",
+    "src": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8",
+    "thumb": "https://i.imgur.com/AHB00KG.png"
   },
   {
     "title": "Total TV Haryana",
@@ -36514,18 +36514,6 @@
     "countries": "Indonesia",
     "src": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
     "thumb": "https://i.imgur.com/fAbGImS.png"
-  },
-  {
-    "title": "Transmedia Television Morelia",
-    "countries": "Mexico",
-    "src": "http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/jYMpVQA.png"
-  },
-  {
-    "title": "Transmedia Television Morelia",
-    "countries": "Mexico",
-    "src": "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8",
-    "thumb": "https://i.imgur.com/jYMpVQA.png"
   },
   {
     "title": "Trans TV",
@@ -36888,12 +36876,6 @@
     "thumb": "https://gia.tv/streams/pptv/208343.jpg"
   },
   {
-    "title": "Turismo RDTV",
-    "countries": "Dominican Republic",
-    "src": "https://streamunoapp.com:3086/live/telemileniolive.m3u8",
-    "thumb": "https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg"
-  },
-  {
     "title": "Turistik TV",
     "countries": "Mexico",
     "src": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
@@ -37173,6 +37155,12 @@
     "title": "TV9 Bharatvarsh",
     "countries": "India",
     "src": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+    "thumb": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "title": "TV9 Bharatvarsh",
+    "countries": "India",
+    "src": "https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8",
     "thumb": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -37568,12 +37556,6 @@
   {
     "title": "TV Centr",
     "countries": "Russia",
-    "src": "https://streaming.televizor-24-tochka.ru/live/13.m3u8",
-    "thumb": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg"
-  },
-  {
-    "title": "TV Centr",
-    "countries": "Russia",
     "src": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8",
     "thumb": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg"
   },
@@ -37770,6 +37752,12 @@
     "thumb": "https://i.imgur.com/qTOnPXe.png"
   },
   {
+    "title": "TVE Bahia",
+    "countries": "Brazil",
+    "src": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png"
+  },
+  {
     "title": "TV Eger",
     "countries": "Hungary",
     "src": "http://stream.tveger.hu:8010/live.m3u8",
@@ -37810,6 +37798,12 @@
     "countries": "Brazil",
     "src": "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8",
     "thumb": ""
+  },
+  {
+    "title": "TVE RS",
+    "countries": "Brazil",
+    "src": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+    "thumb": "https://i.imgur.com/MQ6lJpS.png"
   },
   {
     "title": "TVE Star",
@@ -37920,12 +37914,6 @@
     "thumb": "https://i.imgur.com/Ymh11VV.png"
   },
   {
-    "title": "TVitape",
-    "countries": "Brazil",
-    "src": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
-    "thumb": "https://i.imgur.com/XeqcwKe.png"
-  },
-  {
     "title": "TV ITN",
     "countries": "Iran",
     "src": "https://itnhls.wns.live/hls/stream.m3u8",
@@ -37936,12 +37924,6 @@
     "countries": "Jamaica",
     "src": "https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8",
     "thumb": "https://i.imgur.com/R4PoC3L.png"
-  },
-  {
-    "title": "TV Jadran",
-    "countries": "Croatia",
-    "src": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
-    "thumb": "https://i.imgur.com/UWMHnOG.png"
   },
   {
     "title": "TVK 2",
@@ -38262,12 +38244,6 @@
     "thumb": "https://i.imgur.com/Qo3Hj3t.png"
   },
   {
-    "title": "TV Nova",
-    "countries": "Croatia",
-    "src": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
-    "thumb": "https://i.imgur.com/gFjJ7YB.png"
-  },
-  {
     "title": "TV NRSR",
     "countries": "Slovakia",
     "src": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
@@ -38278,12 +38254,6 @@
     "countries": "Dominican Republic",
     "src": "https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8",
     "thumb": "https://i.imgur.com/MhloaFB.png"
-  },
-  {
-    "title": "TV Oasis Monay",
-    "countries": "Venezuela",
-    "src": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
-    "thumb": "https://i.imgur.com/hwd7osJ.jpeg"
   },
   {
     "title": "TV Oberfranken",
@@ -38886,6 +38856,12 @@
     "thumb": "https://i.imgur.com/a2YX1oj.jpg"
   },
   {
+    "title": "TVS",
+    "countries": "Poland",
+    "src": "https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8",
+    "thumb": "https://i.imgur.com/RHwlp35.png"
+  },
+  {
     "title": "TV Sabadell-Valles",
     "countries": "Spain",
     "src": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
@@ -39192,12 +39168,6 @@
     "thumb": "https://i.imgur.com/YzkwTHb.png"
   },
   {
-    "title": "TV Sul Bahia",
-    "countries": "Brazil",
-    "src": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-    "thumb": "https://i.imgur.com/qM6nMWm.png"
-  },
-  {
     "title": "TV Sul de Minas",
     "countries": "Brazil",
     "src": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8",
@@ -39226,12 +39196,6 @@
     "countries": "United States",
     "src": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8",
     "thumb": "https://i.imgur.com/dwr98qb.png"
-  },
-  {
-    "title": "TVS Women Sports",
-    "countries": "United States",
-    "src": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
-    "thumb": "https://i.imgur.com/8hC4PfF.png"
   },
   {
     "title": "TV Syri",
@@ -39408,6 +39372,12 @@
     "thumb": "https://i.imgur.com/jCGrjf5.png"
   },
   {
+    "title": "Tweede Kamer: Max van der Stoelzaal",
+    "countries": "Netherlands",
+    "src": "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live",
+    "thumb": "https://i.imgur.com/X9fezZ8.png"
+  },
+  {
     "title": "Twoja.TV",
     "countries": "Poland",
     "src": "https://stream.twoja.tv/ttv_hls/live.m3u8",
@@ -39442,18 +39412,6 @@
     "countries": "Russia",
     "src": "http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8",
     "thumb": "https://i.imgur.com/KDZvt0Q.png"
-  },
-  {
-    "title": "UATV",
-    "countries": "Chile",
-    "src": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-    "thumb": "https://i.imgur.com/BdZGS66.png"
-  },
-  {
-    "title": "UATV",
-    "countries": "Chile",
-    "src": "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
-    "thumb": "https://i.imgur.com/BdZGS66.png"
   },
   {
     "title": "UBS",
@@ -39646,6 +39604,12 @@
     "countries": "Argentina",
     "src": "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8",
     "thumb": "https://i.imgur.com/TLM592m.png"
+  },
+  {
+    "title": "Unife TV",
+    "countries": "Peru",
+    "src": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
+    "thumb": "https://i.imgur.com/lVpDLVU.png"
   },
   {
     "title": "Unifranz",
@@ -40476,6 +40440,12 @@
     "thumb": "https://i.imgur.com/KI1qZNc.png"
   },
   {
+    "title": "VM Latino",
+    "countries": "Costa Rica",
+    "src": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+    "thumb": "https://i.imgur.com/Dvo1b82.png"
+  },
+  {
     "title": "VNP",
     "countries": "Peru",
     "src": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
@@ -40672,6 +40642,12 @@
     "countries": "United States",
     "src": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png"
+  },
+  {
+    "title": "W14DK-D 14.5",
+    "countries": "United States",
+    "src": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
+    "thumb": "https://i.imgur.com/D4mZ8ll.png"
   },
   {
     "title": "W24",
@@ -42402,6 +42378,12 @@
     "thumb": "https://i.imgur.com/LtiPOYG.jpg"
   },
   {
+    "title": "YourTime TV",
+    "countries": "Iran",
+    "src": "https://hls.yourtime.live/hls/stream.m3u8",
+    "thumb": "https://i.imgur.com/X38vWJ1.png"
+  },
+  {
     "title": "YRF Music",
     "countries": "India",
     "src": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
@@ -42606,6 +42588,12 @@
     "thumb": "https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg"
   },
   {
+    "title": "Zindagi TV",
+    "countries": "Pakistan",
+    "src": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+    "thumb": "https://i.imgur.com/XBHvR5J.png"
+  },
+  {
     "title": "ZIZ TV",
     "countries": "Saint Kitts and Nevis",
     "src": "https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8",
@@ -42628,12 +42616,6 @@
     "countries": "Netherlands",
     "src": "https://video.uitzending.tv:19360/zo34/zo34.m3u8",
     "thumb": "https://i.imgur.com/yiihDg6.png"
-  },
-  {
-    "title": "Zonavision TV",
-    "countries": "Dominican Republic",
-    "src": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8",
-    "thumb": "https://imgur.com/B3PrrMH.png"
   },
   {
     "title": "Zoom News",
@@ -42750,6 +42732,12 @@
     "thumb": "https://i.imgur.com/NNmjD9Z.png"
   },
   {
+    "title": "3ABN Kids",
+    "countries": "United States",
+    "src": "https://www.youtube-nocookie.com/embed/HxEcfPpyLMA",
+    "thumb": "https://i.imgur.com/z3npqO1.png"
+  },
+  {
     "title": "5 канал",
     "countries": "Ukraine",
     "src": "https://www.youtube-nocookie.com/embed/oHIgPN3z_44",
@@ -42758,7 +42746,7 @@
   {
     "title": "7 Info",
     "countries": "Ivory Coast",
-    "src": "https://www.youtube-nocookie.com/embed/TYGcXxv3REw",
+    "src": "https://www.youtube-nocookie.com/embed/oKdUfHpucC4",
     "thumb": "https://i.imgur.com/jcl1nNR.png"
   },
   {
@@ -43034,7 +43022,7 @@
   {
     "title": "Alikhbaria Syria",
     "countries": "Syria",
-    "src": "https://www.youtube-nocookie.com/embed/FqrItX4gbmY",
+    "src": "https://www.youtube-nocookie.com/embed/_Q4H5eBFR5o",
     "thumb": ""
   },
   {
@@ -43082,7 +43070,7 @@
   {
     "title": "ANI News",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/v0-T9HbCJcY",
+    "src": "https://www.youtube-nocookie.com/embed/6fRqMdmL81s",
     "thumb": ""
   },
   {
@@ -43099,8 +43087,14 @@
   },
   {
     "title": "ANN News",
+    "countries": "India",
+    "src": "https://www.youtube-nocookie.com/embed/KNlsgzrRsfw",
+    "thumb": "https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png"
+  },
+  {
+    "title": "ANN News",
     "countries": "Japan",
-    "src": "https://www.youtube-nocookie.com/embed/me8R8u-IY5M",
+    "src": "https://www.youtube-nocookie.com/embed/5_XMa5A7ACc",
     "thumb": ""
   },
   {
@@ -43196,37 +43190,19 @@
   {
     "title": "Awakening TV",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/ikWKHZsy0hE",
+    "src": "https://www.youtube-nocookie.com/embed/7fGpOfpLYa0",
     "thumb": "https://i.imgur.com/p26iWOi.png"
-  },
-  {
-    "title": "Awaz Tv News",
-    "countries": "Pakistan",
-    "src": "https://www.youtube-nocookie.com/embed/ry-s7F2wefg",
-    "thumb": ""
-  },
-  {
-    "title": "B Smart TV",
-    "countries": "France",
-    "src": "https://www.youtube-nocookie.com/embed/qS5dw5jx-08",
-    "thumb": "https://i.imgur.com/RyVEFcG.png"
   },
   {
     "title": "Baku.TV",
     "countries": "Azerbaijan",
-    "src": "https://www.youtube-nocookie.com/embed/5wsmAUtZnOc",
+    "src": "https://www.youtube-nocookie.com/embed/K7GxAUn9NYQ",
     "thumb": "https://i.imgur.com/r4FzxSg.png"
   },
   {
     "title": "Barbie",
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/iR_RsHE3Nso",
-    "thumb": ""
-  },
-  {
-    "title": "Barney the Dinosaur",
-    "countries": "Canada",
-    "src": "https://www.youtube-nocookie.com/embed/MmDuBDX_GGE",
     "thumb": ""
   },
   {
@@ -43328,8 +43304,14 @@
   {
     "title": "Boa Vontade TV",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/meqBbWrRPGk",
+    "src": "https://www.youtube-nocookie.com/embed/0Op6b3UGuOE",
     "thumb": "https://i.imgur.com/Ms5tSgu.png"
+  },
+  {
+    "title": "Bob Ross",
+    "countries": "United States",
+    "src": "https://www.youtube-nocookie.com/embed/_3U5z6xPxS4",
+    "thumb": ""
   },
   {
     "title": "Bol News",
@@ -43376,7 +43358,7 @@
   {
     "title": "CADENA HEAT 91.9 FM",
     "countries": "Argentina",
-    "src": "https://www.youtube-nocookie.com/embed/g2S1V59NJnE",
+    "src": "https://www.youtube-nocookie.com/embed/99JIUNCOqWM",
     "thumb": ""
   },
   {
@@ -43400,7 +43382,7 @@
   {
     "title": "Canal 8 San Juan",
     "countries": "Argentina",
-    "src": "https://www.youtube-nocookie.com/embed/JuCQVn-lUek",
+    "src": "https://www.youtube-nocookie.com/embed/HkPRM-ecymI",
     "thumb": "https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -43428,6 +43410,12 @@
     "thumb": "https://i.imgur.com/fNURpai.png"
   },
   {
+    "title": "Canal de Panamá",
+    "countries": "Panama",
+    "src": "https://www.youtube-nocookie.com/embed/DLW7bWTgzRg",
+    "thumb": ""
+  },
+  {
     "title": "Canal E",
     "countries": "Argentina",
     "src": "https://www.youtube-nocookie.com/embed/EYsBtcmFz4s",
@@ -43449,12 +43437,6 @@
     "title": "Caracol Televisión",
     "countries": "Colombia",
     "src": "https://www.youtube-nocookie.com/embed/YOjv8sfTXbw",
-    "thumb": ""
-  },
-  {
-    "title": "Cartoon Network",
-    "countries": "United Arab Emirates",
-    "src": "https://www.youtube-nocookie.com/embed/VIMRgfFtXVU",
     "thumb": ""
   },
   {
@@ -43518,12 +43500,6 @@
     "thumb": ""
   },
   {
-    "title": "Cartoonito MENA",
-    "countries": "United Arab Emirates",
-    "src": "https://www.youtube-nocookie.com/embed/Koe1Dmep7fI",
-    "thumb": ""
-  },
-  {
     "title": "Cartoonito Türkiye",
     "countries": "Turkiye",
     "src": "https://www.youtube-nocookie.com/embed/XDSd6m4SauI",
@@ -43546,12 +43522,6 @@
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/OviZBygJBOQ",
     "thumb": "https://i.imgur.com/9f9YMsA.png"
-  },
-  {
-    "title": "CBS News 24/7",
-    "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/v6dXMcuUa9A",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png"
   },
   {
     "title": "CBS TV",
@@ -43592,7 +43562,7 @@
   {
     "title": "Channel 24",
     "countries": "Bangladesh",
-    "src": "https://www.youtube-nocookie.com/embed/cEYT00k_2mc",
+    "src": "https://www.youtube-nocookie.com/embed/JbmYyiT4Lv4",
     "thumb": "https://i.imgur.com/4JLkaF7.png"
   },
   {
@@ -43606,12 +43576,6 @@
     "countries": "Nigeria",
     "src": "https://www.youtube-nocookie.com/embed/W8nThq62Vb4",
     "thumb": ""
-  },
-  {
-    "title": "ChileVision",
-    "countries": "Chile",
-    "src": "https://www.youtube-nocookie.com/embed/igiVK5gOMFg",
-    "thumb": "https://i.imgur.com/PRijvR0.png"
   },
   {
     "title": "Chocolate Sundaes Comedy",
@@ -43652,31 +43616,13 @@
   {
     "title": "CityTv",
     "countries": "Colombia",
-    "src": "https://www.youtube-nocookie.com/embed/GT0DoJhoHVo",
+    "src": "https://www.youtube-nocookie.com/embed/UVOq4W2AHIE",
     "thumb": ""
   },
   {
     "title": "Classic Mr Bean",
     "countries": "United Kingdom",
     "src": "https://www.youtube-nocookie.com/embed/XQLEvieRMj4",
-    "thumb": ""
-  },
-  {
-    "title": "Clifford the Big Red Dog: Classic",
-    "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/_xP4iF7_SEc",
-    "thumb": ""
-  },
-  {
-    "title": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/xlLolFHcgg8",
-    "thumb": ""
-  },
-  {
-    "title": "CLRCUT",
-    "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/DraMN_SN7kw",
     "thumb": ""
   },
   {
@@ -43704,27 +43650,21 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/55/CNBC_Africa_2025.svg"
   },
   {
-    "title": "CNBC Arabia",
-    "countries": "United Arab Emirates",
-    "src": "https://www.youtube-nocookie.com/embed/jhvbcQUMN-E",
-    "thumb": ""
-  },
-  {
     "title": "CNN Brasil",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/aXx-a_1s10E",
+    "src": "https://www.youtube-nocookie.com/embed/7IZtkK9MdrA",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png"
   },
   {
     "title": "CoinVaultTV",
     "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/EClcAbdIxzc",
+    "src": "https://www.youtube-nocookie.com/embed/3kIBgkrsez4",
     "thumb": ""
   },
   {
     "title": "Congreso del Perú en Vivo",
     "countries": "Peru",
-    "src": "https://www.youtube-nocookie.com/embed/ym76c93CAJo",
+    "src": "https://www.youtube-nocookie.com/embed/C4Sr2pkQenk",
     "thumb": ""
   },
   {
@@ -43737,12 +43677,6 @@
     "title": "CONtv: Yu-Gi-Oh! Duel Monsters (Español)",
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/Wv94PcHZmMY",
-    "thumb": ""
-  },
-  {
-    "title": "Crafter's TV",
-    "countries": "United Kingdom",
-    "src": "https://www.youtube-nocookie.com/embed/OLo1qCM-olY",
     "thumb": ""
   },
   {
@@ -43768,12 +43702,6 @@
     "countries": "Taiwan",
     "src": "https://www.youtube-nocookie.com/embed/-Bk_tdwVDPQ",
     "thumb": "https://i.imgur.com/tuI3pTz.png"
-  },
-  {
-    "title": "CTITV News 中天新聞",
-    "countries": "Taiwan",
-    "src": "https://www.youtube-nocookie.com/embed/e8wOea3F2VY",
-    "thumb": ""
   },
   {
     "title": "CTV News 中視新聞",
@@ -43850,7 +43778,7 @@
   {
     "title": "DBC News",
     "countries": "Bangladesh",
-    "src": "https://www.youtube-nocookie.com/embed/kq2nHmJlGdI",
+    "src": "https://www.youtube-nocookie.com/embed/XFFjLTN2lOc",
     "thumb": "https://i.imgur.com/Qbt6q4z.png"
   },
   {
@@ -43892,13 +43820,13 @@
   {
     "title": "Desh TV",
     "countries": "Bangladesh",
-    "src": "https://www.youtube-nocookie.com/embed/so3MOefqnuI",
+    "src": "https://www.youtube-nocookie.com/embed/4QDCC2mZTe8",
     "thumb": "https://i.imgur.com/ItrZok1.png"
   },
   {
     "title": "DGV",
     "countries": "Vietnam",
-    "src": "https://www.youtube-nocookie.com/embed/KwVmrhRDpH4",
+    "src": "https://www.youtube-nocookie.com/embed/Ma0MZoCuUec",
     "thumb": ""
   },
   {
@@ -44076,15 +44004,21 @@
     "thumb": ""
   },
   {
+    "title": "eat News",
+    "countries": "Japan",
+    "src": "https://www.youtube-nocookie.com/embed/JDQLBA8E4rI",
+    "thumb": ""
+  },
+  {
     "title": "ecclesiaTV.gr",
     "countries": "Greece",
-    "src": "https://www.youtube-nocookie.com/embed/vH9aXAq4BGw",
+    "src": "https://www.youtube-nocookie.com/embed/naqX3HlsPnk",
     "thumb": ""
   },
   {
     "title": "Ekattor TV",
     "countries": "Bangladesh",
-    "src": "https://www.youtube-nocookie.com/embed/0RXMooUiIYw",
+    "src": "https://www.youtube-nocookie.com/embed/qbDScaQ2mDc",
     "thumb": "https://i.imgur.com/zoLwwUK.png"
   },
   {
@@ -44112,18 +44046,6 @@
     "thumb": "https://i.imgur.com/HfyKPpD.png"
   },
   {
-    "title": "El Futuro en tu mano",
-    "countries": "Spain",
-    "src": "https://www.youtube-nocookie.com/embed/7C-obm3WoFk",
-    "thumb": "https://i.imgur.com/wkxMhxL.png"
-  },
-  {
-    "title": "El Observador 107.9",
-    "countries": "Argentina",
-    "src": "https://www.youtube-nocookie.com/embed/VwBulHXaVss",
-    "thumb": ""
-  },
-  {
     "title": "El Ocho",
     "countries": "Argentina",
     "src": "https://www.youtube-nocookie.com/embed/Zrmkc-2yRAM",
@@ -44148,12 +44070,6 @@
     "thumb": "https://i.imgur.com/yKb7nfP.png"
   },
   {
-    "title": "El Tres TV",
-    "countries": "Argentina",
-    "src": "https://www.youtube-nocookie.com/embed/DT4SNJRVrs0",
-    "thumb": ""
-  },
-  {
     "title": "Emret Komutanım",
     "countries": "Turkiye",
     "src": "https://www.youtube-nocookie.com/embed/6kQpSqTkN88",
@@ -44174,7 +44090,7 @@
   {
     "title": "Euronews Albania",
     "countries": "Albania",
-    "src": "https://www.youtube-nocookie.com/embed/DxSneH6J4oI",
+    "src": "https://www.youtube-nocookie.com/embed/CiyeBGMMFJ8",
     "thumb": "https://i.imgur.com/Skf6vdi.png"
   },
   {
@@ -44234,7 +44150,7 @@
   {
     "title": "Express News",
     "countries": "Pakistan",
-    "src": "https://www.youtube-nocookie.com/embed/5HB_QKrtg-8",
+    "src": "https://www.youtube-nocookie.com/embed/KNvaWHgOBMw",
     "thumb": "https://i.imgur.com/2ugiEOt.png"
   },
   {
@@ -44280,21 +44196,15 @@
     "thumb": ""
   },
   {
-    "title": "FNNプライムオンライン",
-    "countries": "Japan",
-    "src": "https://www.youtube-nocookie.com/embed/J3sP63QWkZY",
-    "thumb": ""
-  },
-  {
     "title": "Food Network",
     "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/DenSBwuBA0Q",
+    "src": "https://www.youtube-nocookie.com/embed/GVUEJunt704",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png"
   },
   {
     "title": "Force Thirteen Earthquakes",
     "countries": "Australia",
-    "src": "https://www.youtube-nocookie.com/embed/Xa4sNmiO4AM",
+    "src": "https://www.youtube-nocookie.com/embed/19Y7R-lUndA",
     "thumb": ""
   },
   {
@@ -44336,7 +44246,7 @@
   {
     "title": "Freedom (FREEДOM) (UATV)",
     "countries": "Ukraine",
-    "src": "https://www.youtube-nocookie.com/embed/ooJJSOlJZPQ",
+    "src": "https://www.youtube-nocookie.com/embed/2D0PyPWo8vc",
     "thumb": ""
   },
   {
@@ -44367,12 +44277,6 @@
     "title": "Friends of Felines Rescue Center",
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/NQrmlwqsxP4",
-    "thumb": ""
-  },
-  {
-    "title": "Fugget About It",
-    "countries": "Canada",
-    "src": "https://www.youtube-nocookie.com/embed/KNMSsb0ROzM",
     "thumb": ""
   },
   {
@@ -44514,12 +44418,6 @@
     "thumb": ""
   },
   {
-    "title": "HBC Hokkaido News 24",
-    "countries": "Japan",
-    "src": "https://www.youtube-nocookie.com/embed/fp1nPwBY7Xw",
-    "thumb": "https://i.imgur.com/vcGsZVD.png"
-  },
-  {
     "title": "HGTV",
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/FKldeYQ3x7k",
@@ -44562,9 +44460,15 @@
     "thumb": ""
   },
   {
+    "title": "Horrid Henry",
+    "countries": "United Kingdom",
+    "src": "https://www.youtube-nocookie.com/embed/X3DkRnx3y8Q",
+    "thumb": ""
+  },
+  {
     "title": "HORYZONT TV",
     "countries": "Poland",
-    "src": "https://www.youtube-nocookie.com/embed/evx4i2ASG6M",
+    "src": "https://www.youtube-nocookie.com/embed/fBpxZZgTTTU",
     "thumb": ""
   },
   {
@@ -44606,13 +44510,13 @@
   {
     "title": "I24 News English",
     "countries": "Israel",
-    "src": "https://www.youtube-nocookie.com/embed/KiHhKn4lYyw",
+    "src": "https://www.youtube-nocookie.com/embed/Jg-YDBqg9ok",
     "thumb": ""
   },
   {
     "title": "ibrahimlive",
     "countries": "Turkiye",
-    "src": "https://www.youtube-nocookie.com/embed/M-OrVZpMgs4",
+    "src": "https://www.youtube-nocookie.com/embed/OBLJFiiD0xM",
     "thumb": ""
   },
   {
@@ -44624,25 +44528,19 @@
   {
     "title": "Igreja Presbiteriana de Pinheiros",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/lvTg2snSc0Q",
+    "src": "https://www.youtube-nocookie.com/embed/S3p5StJwHSg",
     "thumb": ""
   },
   {
     "title": "Imagen Multicast",
     "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/r21hWkxPKQc",
+    "src": "https://www.youtube-nocookie.com/embed/GnoqxyqBQ7g",
     "thumb": "https://i.imgur.com/YZqGCIW.png"
-  },
-  {
-    "title": "Imagen TV",
-    "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/wO5tZ3SyLEQ",
-    "thumb": "https://i.imgur.com/lKrRvtS.png"
   },
   {
     "title": "Independent Television",
     "countries": "Bangladesh",
-    "src": "https://www.youtube-nocookie.com/embed/TbpaJAaU3hg",
+    "src": "https://www.youtube-nocookie.com/embed/Y4iyCuIAvT8",
     "thumb": ""
   },
   {
@@ -44670,12 +44568,6 @@
     "thumb": "https://i.imgur.com/55RpaF3.png"
   },
   {
-    "title": "Italian Fishing TV",
-    "countries": "Italy",
-    "src": "https://www.youtube-nocookie.com/embed/rqJOhP6tAW4",
-    "thumb": "https://i.imgur.com/qrn6tUO.png"
-  },
-  {
     "title": "Jai Maharashtra News",
     "countries": "India",
     "src": "https://www.youtube-nocookie.com/embed/l33FsRg9djw",
@@ -44690,7 +44582,7 @@
   {
     "title": "Jan TV",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/Mj8bJI22krk",
+    "src": "https://www.youtube-nocookie.com/embed/pmLoajQhUhs",
     "thumb": "https://i.imgur.com/RfJBuf5.png"
   },
   {
@@ -44714,7 +44606,7 @@
   {
     "title": "Jetix",
     "countries": "Russia",
-    "src": "https://www.youtube-nocookie.com/embed/jncfln-EI8s",
+    "src": "https://www.youtube-nocookie.com/embed/pFy6wzyOpZM",
     "thumb": ""
   },
   {
@@ -44726,13 +44618,13 @@
   {
     "title": "Joy News",
     "countries": "Ghana",
-    "src": "https://www.youtube-nocookie.com/embed/MN4gEv095FY",
+    "src": "https://www.youtube-nocookie.com/embed/aCrB2HhUSSA",
     "thumb": "https://i.imgur.com/kGuMNmR.png"
   },
   {
     "title": "JTBC News",
     "countries": "South Korea",
-    "src": "https://www.youtube-nocookie.com/embed/i9TOGUHxTmY",
+    "src": "https://www.youtube-nocookie.com/embed/JB0nr1uxhhU",
     "thumb": ""
   },
   {
@@ -44786,7 +44678,7 @@
   {
     "title": "Kapitan Bomba TV",
     "countries": "Poland",
-    "src": "https://www.youtube-nocookie.com/embed/OfUHOCXXVxw",
+    "src": "https://www.youtube-nocookie.com/embed/xxCmjgAoMnw",
     "thumb": "https://i.ibb.co/VKjztQj/dark-9999-png-oxoooooooo-256x256.png"
   },
   {
@@ -44810,7 +44702,7 @@
   {
     "title": "KBS News",
     "countries": "South Korea",
-    "src": "https://www.youtube-nocookie.com/embed/Mrl9sVsIvmc",
+    "src": "https://www.youtube-nocookie.com/embed/qumSBq1kGo0",
     "thumb": ""
   },
   {
@@ -44838,9 +44730,9 @@
     "thumb": "https://i.imgur.com/TqWYhIR.png"
   },
   {
-    "title": "KNR TV: KNR1",
-    "countries": "Greenland",
-    "src": "https://www.youtube-nocookie.com/embed/vgI-6jy7HW8",
+    "title": "Kids Land: Urdu",
+    "countries": "Pakistan",
+    "src": "https://www.youtube-nocookie.com/embed/fz0ZQlCtAcw",
     "thumb": ""
   },
   {
@@ -44894,7 +44786,7 @@
   {
     "title": "KTN News",
     "countries": "Pakistan",
-    "src": "https://www.youtube-nocookie.com/embed/y_l7Lf2wUwQ",
+    "src": "https://www.youtube-nocookie.com/embed/2sb3som3dPE",
     "thumb": "https://i.imgur.com/RtEzpPQ.png"
   },
   {
@@ -44908,12 +44800,6 @@
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/8u8pQ_uLGjo",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png"
-  },
-  {
-    "title": "KTV News",
-    "countries": "Japan",
-    "src": "https://www.youtube-nocookie.com/embed/VZmb-N1j9iw",
-    "thumb": ""
   },
   {
     "title": "KumudamNews",
@@ -44966,14 +44852,8 @@
   {
     "title": "Lider Haber",
     "countries": "Turkiye",
-    "src": "https://www.youtube-nocookie.com/embed/QOIaJyrPP6s",
+    "src": "https://www.youtube-nocookie.com/embed/FaWDBduqAiE",
     "thumb": "https://i.imgur.com/5B42KwY.png"
-  },
-  {
-    "title": "LiveFM Sri Lanka",
-    "countries": "Sri Lanka",
-    "src": "https://www.youtube-nocookie.com/embed/rDKPSm_ZtKg",
-    "thumb": ""
   },
   {
     "title": "LiveNOW from FOX",
@@ -45048,12 +44928,6 @@
     "thumb": "https://i.imgur.com/MitLeCJ.png"
   },
   {
-    "title": "Made In History",
-    "countries": "Canada",
-    "src": "https://www.youtube-nocookie.com/embed/wxTPk0LKAk4",
-    "thumb": ""
-  },
-  {
     "title": "Malaimurasu Tv 24X7",
     "countries": "India",
     "src": "https://www.youtube-nocookie.com/embed/uXuh15qCgGo",
@@ -45110,7 +44984,7 @@
   {
     "title": "Meganoticias",
     "countries": "Chile",
-    "src": "https://www.youtube-nocookie.com/embed/oZF-OTPhvs4",
+    "src": "https://www.youtube-nocookie.com/embed/tboZ8NahQDo",
     "thumb": ""
   },
   {
@@ -45122,7 +44996,7 @@
   {
     "title": "Methmaga TV",
     "countries": "Sri Lanka",
-    "src": "https://www.youtube-nocookie.com/embed/3FNP6kTDCRE",
+    "src": "https://www.youtube-nocookie.com/embed/0xFhB4VNlWM",
     "thumb": "https://i.imgur.com/EcWL1Rh.jpeg"
   },
   {
@@ -45140,19 +45014,13 @@
   {
     "title": "Mirror Now",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/bHVlTCnu0qc",
+    "src": "https://www.youtube-nocookie.com/embed/M3yOwfHIRyQ",
     "thumb": "https://dtil.tmsimg.com/assets/s143543_ld_h15_aa.png?lock=720x540"
   },
   {
     "title": "Molek TV",
     "countries": "Malaysia",
     "src": "https://www.youtube-nocookie.com/embed/mIaYkjKTfXI",
-    "thumb": ""
-  },
-  {
-    "title": "momokids親子台",
-    "countries": "Taiwan",
-    "src": "https://www.youtube-nocookie.com/embed/Ik6szdtfn8M",
     "thumb": ""
   },
   {
@@ -45170,7 +45038,7 @@
   {
     "title": "Moomin Official",
     "countries": "Finland",
-    "src": "https://www.youtube-nocookie.com/embed/ervetcilQhU",
+    "src": "https://www.youtube-nocookie.com/embed/wRRhnGTnaU0",
     "thumb": ""
   },
   {
@@ -45218,7 +45086,7 @@
   {
     "title": "Multimedios Costa Rica",
     "countries": "Costa Rica",
-    "src": "https://www.youtube-nocookie.com/embed/igjWXEONBDQ",
+    "src": "https://www.youtube-nocookie.com/embed/KMnZpEWrT3Q",
     "thumb": ""
   },
   {
@@ -45272,13 +45140,13 @@
   {
     "title": "NBC News NOW",
     "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/PK9zpGBjo_g",
+    "src": "https://www.youtube-nocookie.com/embed/hHpdHz5i3z4",
     "thumb": "https://i.imgur.com/JZt2qh5.png"
   },
   {
     "title": "NDTV",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/hrNWQVQXop8",
+    "src": "https://www.youtube-nocookie.com/embed/ZGu2vkCB1Ps",
     "thumb": ""
   },
   {
@@ -45308,7 +45176,7 @@
   {
     "title": "News 7 Tamil",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/X_p2Z8NAq5U",
+    "src": "https://www.youtube-nocookie.com/embed/JdtD9dh1xvM",
     "thumb": "https://i.imgur.com/UjlbR4o.png"
   },
   {
@@ -45326,7 +45194,7 @@
   {
     "title": "News Central",
     "countries": "Nigeria",
-    "src": "https://www.youtube-nocookie.com/embed/mmZ7-HsnCuM",
+    "src": "https://www.youtube-nocookie.com/embed/kkaNEkKWf08",
     "thumb": "https://i.imgur.com/qvCgI8N.png"
   },
   {
@@ -45344,7 +45212,7 @@
   {
     "title": "News State",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/5SgMGDwbhfw",
+    "src": "https://www.youtube-nocookie.com/embed/qP5QeENGcR8",
     "thumb": ""
   },
   {
@@ -45362,7 +45230,7 @@
   {
     "title": "Newsmax TV",
     "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/hcc7rZcMccY",
+    "src": "https://www.youtube-nocookie.com/embed/oPtapPqfO_0",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png"
   },
   {
@@ -45386,7 +45254,7 @@
   {
     "title": "NMás",
     "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/yyPk7Ghi_bc",
+    "src": "https://www.youtube-nocookie.com/embed/p2AzyIEuFak",
     "thumb": ""
   },
   {
@@ -45398,13 +45266,13 @@
   {
     "title": "Nova24TV 2",
     "countries": "Slovenia",
-    "src": "https://www.youtube-nocookie.com/embed/lTJYFcBLadE",
+    "src": "https://www.youtube-nocookie.com/embed/XG5HJEfcguc",
     "thumb": "https://i.imgur.com/mTp7faz.png"
   },
   {
     "title": "Now 14",
     "countries": "Israel",
-    "src": "https://www.youtube-nocookie.com/embed/Ob43F2ONR_4",
+    "src": "https://www.youtube-nocookie.com/embed/Cu0_vL-VXwk",
     "thumb": "https://i.imgur.com/Iq2Kb69.png"
   },
   {
@@ -45440,13 +45308,13 @@
   {
     "title": "oe24.TV",
     "countries": "Austria",
-    "src": "https://www.youtube-nocookie.com/embed/IBao58b4dW8",
+    "src": "https://www.youtube-nocookie.com/embed/Ku7ciqz5Zk4",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oe24TV_Logo_2016.svg/960px-Oe24TV_Logo_2016.svg.png"
   },
   {
     "title": "Official iNews",
     "countries": "Indonesia",
-    "src": "https://www.youtube-nocookie.com/embed/M6byQNvprw8",
+    "src": "https://www.youtube-nocookie.com/embed/IP3szZkC80k",
     "thumb": ""
   },
   {
@@ -45518,7 +45386,7 @@
   {
     "title": "Peppa Pig Brasil",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/0GuvfTaCxBw",
+    "src": "https://www.youtube-nocookie.com/embed/k--Ddwgh-18",
     "thumb": ""
   },
   {
@@ -45542,7 +45410,7 @@
   {
     "title": "Polimer News",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/Bbstec5LaA4",
+    "src": "https://www.youtube-nocookie.com/embed/hJVzJcK7WnI",
     "thumb": "https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540"
   },
   {
@@ -45554,7 +45422,7 @@
   {
     "title": "Pororo 뽀로로",
     "countries": "South Korea",
-    "src": "https://www.youtube-nocookie.com/embed/DnBlMyoawrA",
+    "src": "https://www.youtube-nocookie.com/embed/iZ01LJLhkQo",
     "thumb": ""
   },
   {
@@ -45602,7 +45470,7 @@
   {
     "title": "Pudhari News",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/aQlgk94UJsA",
+    "src": "https://www.youtube-nocookie.com/embed/Ae3HQgJ1o_g",
     "thumb": "https://dtil.tmsimg.com/assets/s158328_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -45614,7 +45482,7 @@
   {
     "title": "Puranoticia TV",
     "countries": "Chile",
-    "src": "https://www.youtube-nocookie.com/embed/Tyh0jHH7fnI",
+    "src": "https://www.youtube-nocookie.com/embed/SBUs6P8CCSw",
     "thumb": "https://i.imgur.com/NklUi6Y.png"
   },
   {
@@ -45710,7 +45578,7 @@
   {
     "title": "Radio Mitre",
     "countries": "Argentina",
-    "src": "https://www.youtube-nocookie.com/embed/d0JXjbHuRvs",
+    "src": "https://www.youtube-nocookie.com/embed/7_bv3sMx7Yk",
     "thumb": "https://i.imgur.com/uvck4Vj.png"
   },
   {
@@ -45728,13 +45596,13 @@
   {
     "title": "Ramogi TV",
     "countries": "Kenya",
-    "src": "https://www.youtube-nocookie.com/embed/AHwHcac46I4",
+    "src": "https://www.youtube-nocookie.com/embed/u4LWd8kYXIg",
     "thumb": "https://i.imgur.com/N2Uz9mc.jpg"
   },
   {
     "title": "Raquel Daruech TV",
     "countries": "Uruguay",
-    "src": "https://www.youtube-nocookie.com/embed/LjLRM2uCdDo",
+    "src": "https://www.youtube-nocookie.com/embed/CFlR5SGUbeo",
     "thumb": ""
   },
   {
@@ -45746,7 +45614,7 @@
   {
     "title": "Record News",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/jDMTx2EX-mQ",
+    "src": "https://www.youtube-nocookie.com/embed/tzIHh7xM3PQ",
     "thumb": "https://i.imgur.com/HZDRG0K.png"
   },
   {
@@ -45776,7 +45644,7 @@
   {
     "title": "Republic World",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/Gupg41GJlpo",
+    "src": "https://www.youtube-nocookie.com/embed/DUda-6b3OCE",
     "thumb": ""
   },
   {
@@ -45794,7 +45662,7 @@
   {
     "title": "Rio TV Camara",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/2S0XWB0Xg-c",
+    "src": "https://www.youtube-nocookie.com/embed/B5up5S5sAfo",
     "thumb": "https://i.imgur.com/smSp1f7.jpg"
   },
   {
@@ -45812,7 +45680,7 @@
   {
     "title": "RTD",
     "countries": "Djibouti",
-    "src": "https://www.youtube-nocookie.com/embed/j4srJolMSbM",
+    "src": "https://www.youtube-nocookie.com/embed/aRLOxT2bhrE",
     "thumb": "https://www.rtd.dj/images/logo.png#joomlaImage://local-images/logo.png?width=110&height=110"
   },
   {
@@ -45834,12 +45702,6 @@
     "thumb": ""
   },
   {
-    "title": "Sakshi TV",
-    "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/uiqoOmEdE6w",
-    "thumb": "https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540"
-  },
-  {
     "title": "Samaa TV",
     "countries": "Pakistan",
     "src": "https://www.youtube-nocookie.com/embed/MLDQM0QL_-4",
@@ -45848,13 +45710,13 @@
   {
     "title": "Sandesh News",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/u4WO6rnk5Wk",
+    "src": "https://www.youtube-nocookie.com/embed/c-aVo5FJazs",
     "thumb": "https://dtil.tmsimg.com/assets/s143755_ld_h15_aa.png?lock=720x540"
   },
   {
     "title": "Santa Cruz Feira Digital",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/3fWOLrCBmoQ",
+    "src": "https://www.youtube-nocookie.com/embed/tMzh4s53Emw",
     "thumb": ""
   },
   {
@@ -45878,7 +45740,7 @@
   {
     "title": "SBS",
     "countries": "South Korea",
-    "src": "https://www.youtube-nocookie.com/embed/5AQPxOMp9Uk",
+    "src": "https://www.youtube-nocookie.com/embed/wX30mltzbzA",
     "thumb": "https://i.imgur.com/4LHX71N.png"
   },
   {
@@ -45908,7 +45770,7 @@
   {
     "title": "SBT Rio",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/6HvACHOV2VM",
+    "src": "https://www.youtube-nocookie.com/embed/KrI7gQPPIqw",
     "thumb": "https://i.imgur.com/WLSauIE.png"
   },
   {
@@ -45926,7 +45788,13 @@
   {
     "title": "Serambinews",
     "countries": "Indonesia",
-    "src": "https://www.youtube-nocookie.com/embed/bzc_F_nOqBs",
+    "src": "https://www.youtube-nocookie.com/embed/LcS4BwRmf-U",
+    "thumb": ""
+  },
+  {
+    "title": "Sesame Street",
+    "countries": "United States",
+    "src": "https://www.youtube-nocookie.com/embed/uWusd4GhQBQ",
     "thumb": ""
   },
   {
@@ -45938,7 +45806,7 @@
   {
     "title": "SHOP CH Thailand",
     "countries": "Thailand",
-    "src": "https://www.youtube-nocookie.com/embed/M6IM3iCCua4",
+    "src": "https://www.youtube-nocookie.com/embed/C6cCiuUoesE",
     "thumb": ""
   },
   {
@@ -45990,15 +45858,9 @@
     "thumb": "https://i.imgur.com/sZ3fEMi.png"
   },
   {
-    "title": "Simon Super Lapin",
-    "countries": "France",
-    "src": "https://www.youtube-nocookie.com/embed/aPLPuuzwiK0",
-    "thumb": ""
-  },
-  {
     "title": "Sindh TV News",
     "countries": "Pakistan",
-    "src": "https://www.youtube-nocookie.com/embed/6SJtHfaAko0",
+    "src": "https://www.youtube-nocookie.com/embed/8jmkzUmXGcU",
     "thumb": "https://i.imgur.com/Ap9K1lj.png"
   },
   {
@@ -46058,7 +45920,7 @@
   {
     "title": "Srisaila Tv",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/9MRNkKShC94",
+    "src": "https://www.youtube-nocookie.com/embed/BH-c4u_hQNw",
     "thumb": ""
   },
   {
@@ -46086,12 +45948,6 @@
     "thumb": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0MBD.png?lock=720x540"
   },
   {
-    "title": "Sunny Bunnies",
-    "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/ZNPqWMGs9EQ",
-    "thumb": ""
-  },
-  {
     "title": "Suno News HD",
     "countries": "Pakistan",
     "src": "https://www.youtube-nocookie.com/embed/F6P-BFV6gWM",
@@ -46106,19 +45962,19 @@
   {
     "title": "Super Simple: Bedtime Songs",
     "countries": "Canada",
-    "src": "https://www.youtube-nocookie.com/embed/JNLNv5Odj1E",
+    "src": "https://www.youtube-nocookie.com/embed/_V2f-4vL4GQ",
     "thumb": ""
   },
   {
     "title": "Super Simple: Noodle and Pals",
     "countries": "Canada",
-    "src": "https://www.youtube-nocookie.com/embed/vPVqgn89OsE",
+    "src": "https://www.youtube-nocookie.com/embed/SftL3tsSDIY",
     "thumb": ""
   },
   {
     "title": "Super Simple: Simple Songs",
     "countries": "Canada",
-    "src": "https://www.youtube-nocookie.com/embed/0abntlI3_Ck",
+    "src": "https://www.youtube-nocookie.com/embed/YIq_YrExCOw",
     "thumb": ""
   },
   {
@@ -46144,12 +46000,6 @@
     "countries": "India",
     "src": "https://www.youtube-nocookie.com/embed/i2fayDvm0lY",
     "thumb": ""
-  },
-  {
-    "title": "Swatantra TV",
-    "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/D_Gt_OrK0ks",
-    "thumb": "https://jiotvimages.cdn.jio.com/dare_images/images/Swatantra_News.png"
   },
   {
     "title": "Syafiq Riza Basalamah",
@@ -46184,7 +46034,7 @@
   {
     "title": "T News Telugu",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/ANU5_XHW2wA",
+    "src": "https://www.youtube-nocookie.com/embed/u7mT8d5uxAo",
     "thumb": ""
   },
   {
@@ -46256,13 +46106,13 @@
   {
     "title": "Telediario Digital",
     "countries": "Argentina",
-    "src": "https://www.youtube-nocookie.com/embed/eu39B57DXRk",
+    "src": "https://www.youtube-nocookie.com/embed/ZbeD5YWec18",
     "thumb": ""
   },
   {
     "title": "Telediario Guadalajara",
     "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/cGbF7MRlr1M",
+    "src": "https://www.youtube-nocookie.com/embed/Deq11TMPVgc",
     "thumb": ""
   },
   {
@@ -46276,12 +46126,6 @@
     "countries": "Argentina",
     "src": "https://www.youtube-nocookie.com/embed/5ABLiIbQchA",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png"
-  },
-  {
-    "title": "Telemadrid",
-    "countries": "Spain",
-    "src": "https://www.youtube-nocookie.com/embed/gpzmtVx3VgA",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png"
   },
   {
     "title": "Telemundo Noticias Ahora",
@@ -46302,16 +46146,16 @@
     "thumb": "https://i.imgur.com/YYzZdRE.png"
   },
   {
-    "title": "Televisa Del Golfo",
-    "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/afQ1ELiXrsc",
-    "thumb": "https://i.imgur.com/4SXWCW2.png"
-  },
-  {
     "title": "Televisa Guadalajara",
     "countries": "Mexico",
     "src": "https://www.youtube-nocookie.com/embed/YNcmkKp9eus",
     "thumb": "https://i.imgur.com/Ow0vROp.png"
+  },
+  {
+    "title": "Televisa Guerrero",
+    "countries": "Mexico",
+    "src": "https://www.youtube-nocookie.com/embed/j-sy9zVWTvA",
+    "thumb": "https://i.imgur.com/STbuBVa.png"
   },
   {
     "title": "Televisa Laguna",
@@ -46328,13 +46172,13 @@
   {
     "title": "Televisa Monterrey",
     "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/hFKJpdIueuk",
+    "src": "https://www.youtube-nocookie.com/embed/JSkW2Viiwn0",
     "thumb": "https://i.imgur.com/zQiEsnH.png"
   },
   {
     "title": "Televisa Piedras Negras",
     "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/X3aP1Vcnfwk",
+    "src": "https://www.youtube-nocookie.com/embed/CfOysFZCkWg",
     "thumb": "https://i.imgur.com/MNqBa1f.png"
   },
   {
@@ -46352,7 +46196,7 @@
   {
     "title": "Televisa Sinaloa",
     "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/VaUTM90K2E4",
+    "src": "https://www.youtube-nocookie.com/embed/-80z0BbHU6c",
     "thumb": "https://i.imgur.com/nZ9HE94.png"
   },
   {
@@ -46382,13 +46226,13 @@
   {
     "title": "Televisa Victoria",
     "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/6UYhzop7PhY",
+    "src": "https://www.youtube-nocookie.com/embed/dDs1B5sokdY",
     "thumb": "https://i.ibb.co/tX36t1Q/Televisa-Victoria-en-vivo-Online-1.png"
   },
   {
     "title": "Televisa Zacatecas",
     "countries": "Mexico",
-    "src": "https://www.youtube-nocookie.com/embed/7ZF-6INVmFE",
+    "src": "https://www.youtube-nocookie.com/embed/yrhcdtrb-Ik",
     "thumb": "https://i.imgur.com/vkT4zq7.png"
   },
   {
@@ -46422,6 +46266,12 @@
     "thumb": "https://i.imgur.com/7OY5EPh.jpg"
   },
   {
+    "title": "Telewizja Gorzow",
+    "countries": "Poland",
+    "src": "https://www.youtube-nocookie.com/embed/rIjmDE7TyNE",
+    "thumb": "https://i.imgur.com/z3pmipz.png"
+  },
+  {
     "title": "Telewizja Republika",
     "countries": "Poland",
     "src": "https://www.youtube-nocookie.com/embed/dzntyCTgJMQ",
@@ -46442,8 +46292,14 @@
   {
     "title": "Telewizja Zabrze",
     "countries": "Poland",
-    "src": "https://www.youtube-nocookie.com/embed/luOZ42j3TXA",
+    "src": "https://www.youtube-nocookie.com/embed/G27kQOkIVnU",
     "thumb": "https://i.imgur.com/O9eDefP.png"
+  },
+  {
+    "title": "Telewizja Żary",
+    "countries": "Poland",
+    "src": "https://www.youtube-nocookie.com/embed/Nbsg20YMsF0",
+    "thumb": ""
   },
   {
     "title": "TeNY Niigata News",
@@ -46472,7 +46328,7 @@
   {
     "title": "The Buddhist",
     "countries": "Sri Lanka",
-    "src": "https://www.youtube-nocookie.com/embed/ulTMBrIsT7c",
+    "src": "https://www.youtube-nocookie.com/embed/_cU58xfB2co",
     "thumb": "https://i.imgur.com/DUzOKWM.png"
   },
   {
@@ -46494,6 +46350,12 @@
     "thumb": ""
   },
   {
+    "title": "The Why Files - Backstage",
+    "countries": "United States",
+    "src": "https://www.youtube-nocookie.com/embed/g4hozYaC7F8",
+    "thumb": ""
+  },
+  {
     "title": "The Young Turks",
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/g8j5Zbxt-Zo",
@@ -46502,14 +46364,14 @@
   {
     "title": "Times Now Marathi",
     "countries": "India",
-    "src": "https://www.youtube-nocookie.com/embed/6niCMK8usQY",
+    "src": "https://www.youtube-nocookie.com/embed/8WJxS0Etc3Y",
     "thumb": ""
   },
   {
     "title": "Times Now Navbharat",
     "countries": "India",
     "src": "https://www.youtube-nocookie.com/embed/77qMaUtV030",
-    "thumb": "https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540"
+    "thumb": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png"
   },
   {
     "title": "Times Now World",
@@ -46550,7 +46412,7 @@
   {
     "title": "TokuSHOUTsu: Kamen Rider",
     "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/FKqWTt4fjnY",
+    "src": "https://www.youtube-nocookie.com/embed/jbayK21_mnQ",
     "thumb": ""
   },
   {
@@ -46614,9 +46476,21 @@
     "thumb": ""
   },
   {
+    "title": "Totally Spies!: Season 1",
+    "countries": "United States",
+    "src": "https://www.youtube-nocookie.com/embed/DoqAhtpiYrc",
+    "thumb": ""
+  },
+  {
+    "title": "Totally Spies!: Season 2",
+    "countries": "United States",
+    "src": "https://www.youtube-nocookie.com/embed/nGCg2O3J85o",
+    "thumb": ""
+  },
+  {
     "title": "Trinitas TV",
     "countries": "Romania",
-    "src": "https://www.youtube-nocookie.com/embed/lo74ddkxr0U",
+    "src": "https://www.youtube-nocookie.com/embed/8OaIrOu48CI",
     "thumb": "https://i.imgur.com/mOPEttN.png"
   },
   {
@@ -46634,13 +46508,13 @@
   {
     "title": "TRT عربي",
     "countries": "Turkiye",
-    "src": "https://www.youtube-nocookie.com/embed/OPH25roSmzI",
+    "src": "https://www.youtube-nocookie.com/embed/rlqFPRHHSWA",
     "thumb": ""
   },
   {
     "title": "TrustTV News",
     "countries": "Nigeria",
-    "src": "https://www.youtube-nocookie.com/embed/e9FF9G447OQ",
+    "src": "https://www.youtube-nocookie.com/embed/Cn8eNKo2lfk",
     "thumb": ""
   },
   {
@@ -46664,7 +46538,7 @@
   {
     "title": "TV Assembleia Minas Gerais",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/wA1tPD03NQE",
+    "src": "https://www.youtube-nocookie.com/embed/6SpDHfr1pSA",
     "thumb": "https://i.imgur.com/Q1lo8SG.png"
   },
   {
@@ -46676,7 +46550,7 @@
   {
     "title": "TV Cancao Nova",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/PUzdJ4LbGak",
+    "src": "https://www.youtube-nocookie.com/embed/q6C5db9rAf8",
     "thumb": "https://i.imgur.com/OaM9hkH.png"
   },
   {
@@ -46706,25 +46580,25 @@
   {
     "title": "TV Notícia",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/es2S_13WaDQ",
+    "src": "https://www.youtube-nocookie.com/embed/dptkFfarpi0",
     "thumb": ""
   },
   {
     "title": "TV Relax",
     "countries": "Poland",
-    "src": "https://www.youtube-nocookie.com/embed/jaoq4y93ZyU",
+    "src": "https://www.youtube-nocookie.com/embed/zxMBGU-IbZ8",
     "thumb": ""
   },
   {
     "title": "TV Tambaú",
     "countries": "Brazil",
-    "src": "https://www.youtube-nocookie.com/embed/uoPUy4dQcAI",
+    "src": "https://www.youtube-nocookie.com/embed/-yCGyiAgx9w",
     "thumb": ""
   },
   {
     "title": "TV Temis",
     "countries": "Canada",
-    "src": "https://www.youtube-nocookie.com/embed/GPdja-tCq98",
+    "src": "https://www.youtube-nocookie.com/embed/e1iBePmvgaY",
     "thumb": "https://i.imgur.com/CfKbGTg.png"
   },
   {
@@ -46784,7 +46658,7 @@
   {
     "title": "TV47 Kenya",
     "countries": "Kenya",
-    "src": "https://www.youtube-nocookie.com/embed/70dnWBF3Pws",
+    "src": "https://www.youtube-nocookie.com/embed/A1bkXJdN5nE",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/TV47_Kenya_Logo.jpeg/960px-TV47_Kenya_Logo.jpeg"
   },
   {
@@ -46808,13 +46682,19 @@
   {
     "title": "TVCHOSUN JOY",
     "countries": "South Korea",
-    "src": "https://www.youtube-nocookie.com/embed/302Fw_-JmeM",
+    "src": "https://www.youtube-nocookie.com/embed/zqzbXVdcE3Y",
     "thumb": ""
   },
   {
     "title": "TVCHOSUN MUSIC",
     "countries": "South Korea",
-    "src": "https://www.youtube-nocookie.com/embed/zUtz4UIhc6c",
+    "src": "https://www.youtube-nocookie.com/embed/7ZEbwr2UvtA",
+    "thumb": ""
+  },
+  {
+    "title": "TVLibertad",
+    "countries": "Peru",
+    "src": "https://www.youtube-nocookie.com/embed/iv8TD3KoN8Y",
     "thumb": ""
   },
   {
@@ -46856,7 +46736,7 @@
   {
     "title": "Ulusal Kanal",
     "countries": "Turkiye",
-    "src": "https://www.youtube-nocookie.com/embed/W4MMWTpH6sQ",
+    "src": "https://www.youtube-nocookie.com/embed/TcWyIBhZ-NQ",
     "thumb": "https://i.imgur.com/EwSg612.png"
   },
   {
@@ -46869,12 +46749,6 @@
     "title": "United Nations",
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/vYRfQo6JMxc",
-    "thumb": ""
-  },
-  {
-    "title": "Universal Jr: Curious George",
-    "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/6_wXls_51K8",
     "thumb": ""
   },
   {
@@ -46892,7 +46766,7 @@
   {
     "title": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
     "countries": "Poland",
-    "src": "https://www.youtube-nocookie.com/embed/-cvEwjKawzA",
+    "src": "https://www.youtube-nocookie.com/embed/bqBdguGwTOg",
     "thumb": ""
   },
   {
@@ -46904,7 +46778,7 @@
   {
     "title": "Urbana Play 104.3 FM",
     "countries": "Argentina",
-    "src": "https://www.youtube-nocookie.com/embed/fvhBafNgUQQ",
+    "src": "https://www.youtube-nocookie.com/embed/93bR1DeY7mI",
     "thumb": ""
   },
   {
@@ -46934,7 +46808,7 @@
   {
     "title": "VSH News",
     "countries": "Pakistan",
-    "src": "https://www.youtube-nocookie.com/embed/Qo2XHqTekV8",
+    "src": "https://www.youtube-nocookie.com/embed/PhcRa8PEca0",
     "thumb": "https://i.imgur.com/pmPZoYC.png"
   },
   {
@@ -46952,13 +46826,13 @@
   {
     "title": "Watania Replay",
     "countries": "Tunisia",
-    "src": "https://www.youtube-nocookie.com/embed/7q2fEL0zt3o",
+    "src": "https://www.youtube-nocookie.com/embed/ObYPvej9xJ8",
     "thumb": ""
   },
   {
     "title": "Watania2 Replay",
     "countries": "Tunisia",
-    "src": "https://www.youtube-nocookie.com/embed/4oMa2mYf7Fg",
+    "src": "https://www.youtube-nocookie.com/embed/Q6s0goVuQBc",
     "thumb": ""
   },
   {
@@ -46982,19 +46856,13 @@
   {
     "title": "WildBrain Çocuklar: Çilekli Kurabiye",
     "countries": "Turkiye",
-    "src": "https://www.youtube-nocookie.com/embed/ctVz3gHqYLY",
+    "src": "https://www.youtube-nocookie.com/embed/f78n4gXQo3k",
     "thumb": ""
   },
   {
     "title": "WildBrain Çocuklar: Twirlywoos",
     "countries": "Turkiye",
     "src": "https://www.youtube-nocookie.com/embed/CSpTI1OI0wI",
-    "thumb": ""
-  },
-  {
-    "title": "WildBrain Kids",
-    "countries": "United Kingdom",
-    "src": "https://www.youtube-nocookie.com/embed/b_axLuTK0xU",
     "thumb": ""
   },
   {
@@ -47012,13 +46880,13 @@
   {
     "title": "WildBrain: Liberty's Kids",
     "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/fQTunQqjkMc",
+    "src": "https://www.youtube-nocookie.com/embed/K0YmH0Y7GTA",
     "thumb": ""
   },
   {
     "title": "WildBrain: Teletubbies",
     "countries": "United Kingdom",
-    "src": "https://www.youtube-nocookie.com/embed/vrP8VPdk4ZY",
+    "src": "https://www.youtube-nocookie.com/embed/BtdE3diFaJs",
     "thumb": ""
   },
   {
@@ -47036,7 +46904,7 @@
   {
     "title": "WPLG Local 10",
     "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/qJt7xozK3KQ",
+    "src": "https://www.youtube-nocookie.com/embed/GXFFB2bVj5Q",
     "thumb": ""
   },
   {
@@ -47049,12 +46917,6 @@
     "title": "WRAL",
     "countries": "United States",
     "src": "https://www.youtube-nocookie.com/embed/PeTHS4MivaE",
-    "thumb": ""
-  },
-  {
-    "title": "WWE",
-    "countries": "United States",
-    "src": "https://www.youtube-nocookie.com/embed/CGRuhWbd4LU",
     "thumb": ""
   },
   {
@@ -47162,7 +47024,7 @@
   {
     "title": "Суспільне Новини",
     "countries": "Ukraine",
-    "src": "https://www.youtube-nocookie.com/embed/G_-e1L724OU",
+    "src": "https://www.youtube-nocookie.com/embed/uOntga5OQrs",
     "thumb": ""
   },
   {
@@ -47174,13 +47036,13 @@
   {
     "title": "Телеканал 24kz",
     "countries": "Kazakhstan",
-    "src": "https://www.youtube-nocookie.com/embed/SZus911WLBQ",
+    "src": "https://www.youtube-nocookie.com/embed/QUjZGvlwAeE",
     "thumb": ""
   },
   {
     "title": "Телеканал Конкурент TV",
     "countries": "Ukraine",
-    "src": "https://www.youtube-nocookie.com/embed/_WkLCoqaHw4",
+    "src": "https://www.youtube-nocookie.com/embed/Kt-6t8BIqIM",
     "thumb": ""
   },
   {
@@ -47217,6 +47079,12 @@
     "title": "Ювелирочка",
     "countries": "Russia",
     "src": "https://www.youtube-nocookie.com/embed/5OdUptEWDCw",
+    "thumb": ""
+  },
+  {
+    "title": "أفلام تركية مدبلجة للعربية - Turkish Movies",
+    "countries": "Saudi Arabia",
+    "src": "https://www.youtube-nocookie.com/embed/Fi5-o9EG0nQ",
     "thumb": ""
   },
   {
@@ -47330,7 +47198,7 @@
   {
     "title": "小猪佩奇 中文官方 - Peppa Pig",
     "countries": "China",
-    "src": "https://www.youtube-nocookie.com/embed/n4KQSERnk-4",
+    "src": "https://www.youtube-nocookie.com/embed/Nm4tu4sYsaE",
     "thumb": ""
   },
   {
